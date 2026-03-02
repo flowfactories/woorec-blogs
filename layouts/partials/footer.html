@@ -1,0 +1,17 @@
+<!-- 
+  暴力居中版
+  1. style="display: flex; justify-content: center;" -> 强制 Flex 布局并居中
+  2. w-full -> 宽度强制 100%
+-->
+<footer class="bg-gray-100 dark:bg-neutral-900 print:bg-transparent" 
+        style="width: 100%; display: flex; justify-content: center; align-items: center; padding: 2rem 0;">
+  
+  <div style="text-align: center; width: 100%;">
+    <p class="text-sm text-gray-600 dark:text-gray-400" style="margin: 0;">
+      {{- if .Site.Params.footer.displayCopyright -}}
+        {{ .Site.Params.footer.copyright | markdownify }}
+      {{- end -}}
+    </p>
+  </div>
+
+</footer>

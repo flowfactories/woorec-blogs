@@ -1,0 +1,83 @@
+<!-- 
+  核弹级修复方案：
+  完全放弃 Tailwind 类名依赖，使用纯 CSS 内联样式强制布局。
+  这能 100% 解决样式被覆盖或不生效的问题。
+-->
+<div style="width: 100%; max-width: 1200px; margin: 40px auto; font-family: sans-serif;">
+  
+  <!-- 容器：Flex 布局，自动换行，居中对齐 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
+    
+    {{ $cases := where site.RegularPages "Section" "cases" }}
+    {{ range $cases }}
+      
+      <!-- 卡片本体 -->
+      <!-- calc(33.333% - 24px) 让它在电脑上一行显示3个 -->
+      <!-- min-width: 280px 保证在手机上自动变成一行一个 -->
+      <a href="{{ .RelPermalink }}" 
+         style="
+           display: block;
+           flex: 1 1 300px;
+           max-width: 380px;
+           min-width: 280px;
+           background: #ffffff;
+           border: 1px solid #e5e7eb;
+           border-radius: 12px;
+           overflow: hidden;
+           text-decoration: none;
+           box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+           transition: transform 0.2s, box-shadow 0.2s;
+           margin: 0; /* 强制去除外边距 */
+         "
+         onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 1px 3px rgba(0,0,0,0.1)';"
+      >
+        
+        <!-- 图片区域：强制 200px 高度，裁剪多余部分 -->
+        <div style="width: 100%; height: 200px; overflow: hidden; position: relative; background-color: #f3f4f6;">
+          {{ if .Params.image }}
+            <img src="{{ .Params.image }}" 
+                 alt="{{ .Title }}" 
+                 style="
+                   width: 100% !important; 
+                   height: 100% !important; 
+                   object-fit: cover !important; 
+                   margin: 0 !important; 
+                   border: none !important;
+                   display: block !important;
+                 " 
+            />
+          {{ else }}
+            <!-- 没图时的默认样式 -->
+            <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); color: #6366f1; font-size: 2rem; font-weight: bold;">
+              CASE
+            </div>
+          {{ end }}
+          
+          <!-- 客户标签 -->
+          {{ if .Params.client }}
+          <div style="position: absolute; top: 10px; right: 10px; background: rgba(255,255,255,0.9); padding: 4px 8px; border-radius: 4px; font-size: 12px; color: #333; font-weight: bold;">
+            {{ .Params.client }}
+          </div>
+          {{ end }}
+        </div>
+
+        <!-- 文字内容 -->
+        <div style="padding: 20px; text-align: left;">
+          <h3 style="margin: 0 0 10px 0; font-size: 18px; font-weight: 700; color: #111827; line-height: 1.4;">
+            {{ .Title }}
+          </h3>
+          
+          <p style="margin: 0 0 16px 0; font-size: 14px; color: #6b7280; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+            {{ .Summary | plainify }}
+          </p>
+
+          <div style="font-size: 13px; font-weight: 600; color: #2563eb; display: flex; align-items: center;">
+            Read Case Study →
+          </div>
+        </div>
+      </a>
+    {{ end }}
+
+  </div>
+</div>

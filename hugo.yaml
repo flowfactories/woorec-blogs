@@ -1,0 +1,51 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "WooRec"
+timeZone: "America/Los_Angeles"
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    style: dracula
+
+# 菜单留空，因为你不需要 Docs 链接了
+menu:
+  main: []
+
+params:
+  description: "WooRec - Enterprise-grade recommendation system."
+  
+  # 核心设置：告诉首页去 'cases' 文件夹找文章
+  mainSections: ["cases"]
+
+  navbar:
+    displayTitle: true
+    title: "WooRec"
+    logo:
+      path: "/favicon.svg" 
+      link: "/"
+      width: 40 
+      height: 40
+
+  search:
+    enable: true
+    type: flexsearch
+    placeholder: "Search cases..."
+
+  footer:
+    displayCopyright: true
+    copyright: "©2026 WooRec Inc. All rights reserved"
+    
+  # 列表页样式设置
+  blog:
+    list:
+      displayTags: true
+      displayDate: true 
+      displayAuthor: false

@@ -1,0 +1,130 @@
+{{ define "main" }}
+<!-- 页面容器：浅灰背景，提升质感 -->
+<div style="background-color: #f9fafb; min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; padding-bottom: 80px;">
+  
+  <!-- 1. 头部区域：标题与简介 -->
+  <div style="max-width: 1200px; margin: 0 auto; padding: 60px 20px; text-align: center;">
+    <!-- 渲染 _index.md 的内容 -->
+    <div style="color: #111827; line-height: 1.6;">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <!-- 2. 案例列表区域 -->
+  <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+    
+    <!-- 分页逻辑：每页 9 个 -->
+    {{ $paginator := .Paginate (where site.RegularPages "Section" "cases") 9 }}
+
+    <!-- 
+      核心布局修正：使用 CSS Grid 
+      repeat(auto-fill, minmax(320px, 1fr)) 
+      这能保证：
+      1. 屏幕大时，一行严格显示 3 个。
+      2. 屏幕小时，自动变 2 个或 1 个。
+      3. 数量少时，从左到右排列，不会居中对齐（解决"丑"的问题）。
+    -->
+    <div style="
+      display: grid; 
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); 
+      gap: 32px;
+    ">
+      {{ range $paginator.Pages }}
+      
+      <!-- 卡片本体：复刻你觉得对的那个内联样式 -->
+      <a href="{{ .RelPermalink }}" 
+         style="
+           display: flex;
+           flex-direction: column;
+           background: #ffffff;
+           border: 1px solid #e5e7eb;
+           border-radius: 16px; /* 更圆润的角 */
+           overflow: hidden;
+           text-decoration: none;
+           box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+           transition: transform 0.2s ease, box-shadow 0.2s ease;
+           margin: 0;
+         "
+         onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 10px 25px -5px rgba(0,0,0,0.1), 0 8px 10px -6px rgba(0,0,0,0.1)';"
+         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 1px 2px rgba(0,0,0,0.05)';"
+      >
+        
+        <!-- 图片区域：强制 220px 高度 -->
+        <div style="height: 220px; position: relative; background-color: #f3f4f6; overflow: hidden;">
+          {{ if .Params.image }}
+            <img src="{{ .Params.image }}" 
+                 alt="{{ .Title }}" 
+                 style="
+                   width: 100%; 
+                   height: 100%; 
+                   object-fit: cover; 
+                   display: block; 
+                   margin: 0; 
+                   border: none;
+                 "
+            />
+          {{ else }}
+            <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: #e0e7ff; color: #6366f1;">
+               CASE
+            </div>
+          {{ end }}
+          
+          <!-- 客户标签 -->
+          {{ if .Params.client }}
+          <div style="position: absolute; top: 12px; right: 12px; background: rgba(255,255,255,0.95); padding: 4px 10px; border-radius: 20px; font-size: 11px; font-weight: 700; color: #374151; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            {{ .Params.client }}
+          </div>
+          {{ end }}
+        </div>
+
+        <!-- 内容区域 -->
+        <div style="padding: 24px; flex: 1; display: flex; flex-direction: column;">
+          <h3 style="margin: 0 0 12px 0; font-size: 18px; font-weight: 700; color: #111827; line-height: 1.4;">
+            {{ .Title }}
+          </h3>
+          
+          <p style="margin: 0 0 20px 0; font-size: 14px; color: #6b7280; line-height: 1.6; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+            {{ .Summary | plainify }}
+          </p>
+          
+          <div style="font-size: 14px; font-weight: 600; color: #2563eb; display: flex; align-items: center; margin-top: auto;">
+            Read Case Study 
+            <span style="margin-left: 6px;">&rarr;</span>
+          </div>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+
+    <!-- 3. 分页导航 -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <div style="margin-top: 60px; display: flex; justify-content: center; align-items: center; gap: 8px;">
+      
+      <!-- 上一页 -->
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" style="display: flex; height: 40px; align-items: center; padding: 0 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: white; color: #374151; text-decoration: none; font-size: 14px; font-weight: 500;">&larr; Previous</a>
+      {{ end }}
+
+      <!-- 页码 -->
+      {{ range $paginator.Pagers }}
+        <a href="{{ .URL }}" style="
+          display: flex; height: 40px; width: 40px; align-items: center; justify-content: center; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 500;
+          {{ if eq . $paginator }} 
+            background: #2563eb; color: white; border: 1px solid #2563eb;
+          {{ else }} 
+            background: white; color: #374151; border: 1px solid #e5e7eb;
+          {{ end }}
+        ">{{ .PageNumber }}</a>
+      {{ end }}
+
+      <!-- 下一页 -->
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" style="display: flex; height: 40px; align-items: center; padding: 0 16px; border: 1px solid #e5e7eb; border-radius: 8px; background: white; color: #374151; text-decoration: none; font-size: 14px; font-weight: 500;">Next &rarr;</a>
+      {{ end }}
+
+    </div>
+    {{ end }}
+
+  </div>
+</div>
+{{ end }}
