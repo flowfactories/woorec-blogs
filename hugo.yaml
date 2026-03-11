@@ -3,9 +3,6 @@ languageCode: "en-us"
 title: "WooRec"
 timeZone: "America/Los_Angeles"
 
-services:
-  googleAnalytics:
-    ID: G-BKSF080EBZ 
 
 module:
   imports:
