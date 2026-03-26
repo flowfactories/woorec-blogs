@@ -1,0 +1,43 @@
+name: Build Hugo and Push to Blog Branch
+
+on:
+  push:
+    branches:
+      - main  # Hugo 源码所在分支
+    paths:
+      - 'content/**'
+      - 'layouts/**'
+      - 'config.toml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Hugo source
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.119.0'
+          extended: true
+      
+      - name: Build with Hugo
+        run: hugo --minify --baseURL "https://woorec.com/blog/"
+      
+      - name: Deploy to blog branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: blog  # 发布到 blog 分支
+          commit_message: "Deploy Hugo: ${{ github.event.head_commit.message }}"
+          keep_files: false  # 是否保留目标分支的旧文件
