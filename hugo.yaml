@@ -2,7 +2,7 @@ baseURL: "https://blog.woorec.com/"
 languageCode: "en-us"
 title: "WooRec"
 timeZone: "America/Los_Angeles"
-
+enableRobotsTXT: true
 
 module:
   imports:
