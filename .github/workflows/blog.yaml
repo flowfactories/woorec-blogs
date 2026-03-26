@@ -9,7 +9,6 @@ on:
       - 'layouts/**'
       - 'static/**'
       - 'config.toml'
-  workflow_dispatch:
 
 permissions:
   contents: write
