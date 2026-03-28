@@ -24,4 +24,4 @@ Allow: /
 
 # No restrictions for any AI crawlers - all explicitly allowed
 
-Sitemap: https://woorec.com/blog//sitemap.xml
+Sitemap: https://woorec.com/blogs//sitemap.xml
