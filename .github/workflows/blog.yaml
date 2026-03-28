@@ -32,7 +32,7 @@ jobs:
           extended: true
       
       - name: Build with Hugo
-        run: hugo --minify --baseURL "https://woorec.com/blog/" --relativeURLs=true --canonifyURLs=false
+        run: hugo --minify --baseURL "https://woorec.com/blog/" --relativeURLs --canonifyURLs=false
       
       - name: Deploy to blog branch
         uses: peaceiris/actions-gh-pages@v3
