@@ -3,8 +3,6 @@ languageCode: "en-us"
 title: "WooRec"
 timeZone: "America/Los_Angeles"
 enableRobotsTXT: true
-relativeURLs: true
-canonifyURLs: false
 
 module:
   imports:

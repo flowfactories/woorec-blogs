@@ -8,7 +8,7 @@ on:
       - 'content/**'
       - 'layouts/**'
       - 'static/**'
-      - 'config.toml'
+      - 'hugo.yaml'
   workflow_dispatch:  # 允许手动触发
 
 permissions:
