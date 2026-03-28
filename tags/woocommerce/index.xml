@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – WooCommerce</title><link>https://woorec.com/blogs/tags/woocommerce/</link><description>Recent content in WooCommerce on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 Mar 2026 09:48:31 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/woocommerce/index.xml" rel="self" type="application/rss+xml"/><item><title>83.3% Pre-sale Conversion Surge: Figure Haven Collectibles' AI Breakthrough</title><link>https://woorec.com/blogs/cases/2026-03-28t09-48-31+08-00-figurehavencollectibles/</link><pubDate>Sat, 28 Mar 2026 09:48:31 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-03-28t09-48-31+08-00-figurehavencollectibles/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Limited edition anime collectible figure displayed on a minimalist oak shelf in a sunlit studio. LIGHTING: Soft natural window light highlighting intricate craftsmanship. NO digital overlays. --ar 2:1] :: --&gt;
-&lt;p&gt;&lt;img src="../../blogs/images/FigureHavenCollectibles-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/FigureHavenCollectibles-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/FigureHavenCollectibles-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/FigureHavenCollectibles-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;The Cold Start Crisis and Pre-sale Abandonment&lt;span class="hx:absolute hx:-mt-20" id="the-cold-start-crisis-and-pre-sale-abandonment"&gt;&lt;/span&gt;
 &lt;a href="#the-cold-start-crisis-and-pre-sale-abandonment" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;Figure Haven Collectibles&lt;/code&gt;, scaling to &lt;code&gt;$75,000&lt;/code&gt; monthly GMV brought critical challenges: &lt;code&gt;Long pre-sale periods causing customer abandonment and requiring extensive follow-up communications&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;Anime and manga figure collectors, aged 18-35&lt;/code&gt; demanded relevance. With zero historical data for new visitors, manual curation created irrelevant suggestions – collectors saw mainstream figures instead of rare exclusives, driving cart abandonment to 75% and returns to 15% due to mismatched expectations.&lt;/p&gt;
@@ -42,12 +42,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;Seamless Integration, Instant Impact&lt;span class="hx:absolute hx:-mt-20" id="seamless-integration-instant-impact"&gt;&lt;/span&gt;
 &lt;a href="#seamless-integration-instant-impact" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;Figure Haven Collectibles&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="../../images/FigureHavenCollectibles-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/FigureHavenCollectibles-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI Mockup. SCENE: Clean WooCommerce product page on a laptop. CONTENT: 'Recommended Collectibles' section showing 3 anime figures with tags like "Pre-Order", "Limited", "Shonen". STYLE: Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 83.3% Pre-sale Conversion Surge&lt;span class="hx:absolute hx:-mt-20" id="the-impact-833-pre-sale-conversion-surge"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-833-pre-sale-conversion-surge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;Figure Haven Collectibles&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="../../charts/FigureHavenCollectibles.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/FigureHavenCollectibles.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Pre-sale Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;83.3%&lt;/strong&gt; (12% → 22%).&lt;/li&gt;
@@ -66,7 +66,7 @@
 &lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a team of data scientists to build a world-class recommendation engine. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just a matter of configuration.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>220% Community Surge: PrintCraft3D's SaaS Plugin Revolutionizes 3D Printing E-commerce</title><link>https://woorec.com/blogs/cases/2026-03-26t09-48-16+08-00-printcraft3d/</link><pubDate>Thu, 26 Mar 2026 09:48:16 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-03-26t09-48-16+08-00-printcraft3d/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: 3D printer on a designer desk with half-finished architectural model, natural studio lighting. NO digital overlays. --ar 2:1 :: --&gt;
-&lt;p&gt;&lt;img src="../../blogs/images/PrintCraft3D-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/PrintCraft3D-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/PrintCraft3D-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/PrintCraft3D-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;The Cold Start Crisis: Manual Rules vs. Niche Complexity&lt;span class="hx:absolute hx:-mt-20" id="the-cold-start-crisis-manual-rules-vs-niche-complexity"&gt;&lt;/span&gt;
 &lt;a href="#the-cold-start-crisis-manual-rules-vs-niche-complexity" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;PrintCraft3D&lt;/code&gt;, scaling to &lt;code&gt;$75,000&lt;/code&gt; monthly GMV exposed a critical flaw: &lt;code&gt;High print failure rates leading to increased returns and support costs&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;At this stage, standard WooCommerce rules collapsed. Their &lt;code&gt;3D printing enthusiasts, hobbyists, small design studios, and educational institutions&lt;/code&gt; demanded hyper-specific compatibility guidance. Without technical resources, the team couldn&amp;rsquo;t:&lt;/p&gt;
@@ -110,12 +110,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Intelligent Storefront: AI in Action&lt;span class="hx:absolute hx:-mt-20" id="the-intelligent-storefront-ai-in-action"&gt;&lt;/span&gt;
 &lt;a href="#the-intelligent-storefront-ai-in-action" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s how DeepFM-driven recommendations appear on &lt;code&gt;PrintCraft3D&lt;/code&gt;:&lt;/p&gt;
-&lt;img src="../../images/PrintCraft3D-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/PrintCraft3D-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on tablet. CONTENT: "Recommended for Your Ender-3" showing PETG filament, calibration kit, and resin. Minimalist, high-res. :: --&gt;
 *Figure 1: DeepFM-powered recommendations matching printer models to compatible consumables.*
 &lt;h2&gt;The 220% Impact: Metrics That Redefine Growth&lt;span class="hx:absolute hx:-mt-20" id="the-220-impact-metrics-that-redefine-growth"&gt;&lt;/span&gt;
 &lt;a href="#the-220-impact-metrics-that-redefine-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The SaaS deployment delivered immediate results:&lt;/p&gt;
-&lt;iframe src="../../charts/PrintCraft3D.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/PrintCraft3D.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: 90-day metric surge post-WooRec activation.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Community Activity (Model Sharing)&lt;/strong&gt;: &lt;strong&gt;220%&lt;/strong&gt; surge (15 → 48 weekly shares)&lt;/li&gt;
@@ -133,7 +133,7 @@
 &lt;a href="#configure-your-growth-in-days-not-quarters" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don’t need PhDs to deploy enterprise-grade personalization. With &lt;strong&gt;WooRec&lt;/strong&gt;’s SaaS architecture, it’s configuration—not coding.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>77.8% Conversion Surge: How Bean Voyage Coffee Mastered Personalization</title><link>https://woorec.com/blogs/cases/2026-03-23t09-47-54+08-00-beanvoyagecoffee/</link><pubDate>Mon, 23 Mar 2026 09:47:54 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-03-23t09-47-54+08-00-beanvoyagecoffee/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Artisanal coffee beans in a minimalist pour-over setup with natural light filtering through a window. NO digital overlays. --ar 2:1] :: --&gt;
-&lt;p&gt;&lt;img src="../../blogs/images/BeanVoyageCoffee-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/BeanVoyageCoffee-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/BeanVoyageCoffee-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/BeanVoyageCoffee-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;The Limits of Manual Curation&lt;span class="hx:absolute hx:-mt-20" id="the-limits-of-manual-curation"&gt;&lt;/span&gt;
 &lt;a href="#the-limits-of-manual-curation" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;Bean Voyage Coffee&lt;/code&gt;, scaling to &lt;code&gt;$75,000&lt;/code&gt; monthly GMV brought a critical challenge: &lt;code&gt;Abstract taste descriptions making it difficult for customers to differentiate between products and choose beans that match their preferences&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;Home coffee enthusiasts, specialty coffee drinkers, and small offices&lt;/code&gt; demanded relevance. Customers faced analysis paralysis when confronted with poetic but vague descriptions like &amp;ldquo;notes of stone fruit and dark chocolate,&amp;rdquo; leading to abandoned carts and poor equipment mismatch. With a $120 CAC devouring their limited marketing budget, every lost visitor threatened sustainability.&lt;/p&gt;
@@ -175,12 +175,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;Bean Voyage Coffee&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="../../images/BeanVoyageCoffee-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/BeanVoyageCoffee-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on a laptop screen. CONTENT: "Recommended for You" section showing 3 coffee bags with tasting notes and brewing icons. Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 77.8% Conversion Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-778-conversion-growth"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-778-conversion-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;Bean Voyage Coffee&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="../../charts/BeanVoyageCoffee.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/BeanVoyageCoffee.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;77.8%&lt;/strong&gt; (from 1.8% to 3.2%).&lt;/li&gt;
@@ -197,7 +197,7 @@
 &lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a team of data scientists to build a world-class recommendation engine. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just a matter of configuration.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>125% Higher Attach Rate: How ShellShield Cases Solved the Cross-Sell Puzzle</title><link>https://woorec.com/blogs/cases/2026-03-21t09-49-04+08-00-shellshieldcases/</link><pubDate>Sat, 21 Mar 2026 09:49:04 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-03-21t09-49-04+08-00-shellshieldcases/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Sleek smartphone cases in natural lifestyle setting with tech accessories. LIGHTING: Soft natural light. NO digital overlays. --ar 2:1 :: --&gt;
-&lt;p&gt;&lt;img src="../../blogs/images/ShellShieldCases-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/ShellShieldCases-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/ShellShieldCases-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/ShellShieldCases-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;The Compatibility Catastrophe&lt;span class="hx:absolute hx:-mt-20" id="the-compatibility-catastrophe"&gt;&lt;/span&gt;
 &lt;a href="#the-compatibility-catastrophe" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;ShellShield Cases&lt;/code&gt;, scaling to &lt;code&gt;$65,000&lt;/code&gt; monthly GMV brought a critical challenge: &lt;code&gt;High model complexity causing frequent wrong purchases: With 50+ phone models and variations, customers often select incompatible cases, resulting in 25% return rate&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;tech-savvy smartphone users aged 18-35 who value both device protection and personal expression&lt;/code&gt; demanded relevance. Their WooCommerce store became a compatibility minefield where 1 in 4 purchases returned due to model mismatches, while cross-sell opportunities for screen protectors and accessories vanished into the void.&lt;/p&gt;
@@ -235,12 +235,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;ShellShield Cases&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="../../images/ShellShieldCases-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/ShellShieldCases-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on smartphone. CONTENT: "Recommended for You" section showing iPhone cases paired with screen protectors and MagSafe chargers. STYLE: Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 125% Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-125-growth"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-125-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;ShellShield Cases&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="../../charts/ShellShieldCases.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/ShellShieldCases.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Attach Rate&lt;/strong&gt;: Increased by &lt;strong&gt;125%&lt;/strong&gt; (20% → 45%).&lt;/li&gt;
@@ -257,7 +257,7 @@
 &lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a team of data scientists to build a world-class recommendation engine. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just a matter of configuration.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>86.7% Conversion Surge: Vector Retrieval &amp; DeepFM Rescue a Photography E-commerce</title><link>https://woorec.com/blogs/cases/2026-03-15t09-48-34+08-00-lenscraftpro/</link><pubDate>Sun, 15 Mar 2026 09:48:34 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-03-15t09-48-34+08-00-lenscraftpro/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Professional camera lens on minimalist desk with natural morning light. STYLE: Clean, editorial product photography. LIGHTING: Soft directional window light. NO digital overlays. --ar 2:1] :: --&gt;
-&lt;p&gt;&lt;img src="../../blogs/images/LensCraftPro-hero.jpg" alt="/images/LensCraftPro-hero.jpg" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/LensCraftPro-hero.jpg" alt="/images/LensCraftPro-hero.jpg" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;The Compatibility Crisis: When $75K GMV Meets Cart Abandonment&lt;span class="hx:absolute hx:-mt-20" id="the-compatibility-crisis-when-75k-gmv-meets-cart-abandonment"&gt;&lt;/span&gt;
 &lt;a href="#the-compatibility-crisis-when-75k-gmv-meets-cart-abandonment" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;LensCraft Pro&lt;/code&gt;, scaling to &lt;code&gt;$75,000&lt;/code&gt; monthly GMV exposed a critical flaw: &lt;code&gt;High system switching costs: Customers hesitate to invest in new camera systems due to the high cost of replacing lenses and accessories, leading to abandoned carts.&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;At this stage, manual compatibility checks failed. Amateur photographers would spend hours researching lens-camera pairings, only to abandon carts when uncertain about compatibility. The &lt;code&gt;2 marketing specialists&lt;/code&gt; couldn&amp;rsquo;t keep pace with the 15% return rate caused by mismatched gear, creating a vicious cycle of wasted ad spend and frustrated customers.&lt;/p&gt;
@@ -299,12 +299,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;LensCraft Pro&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="../../images/LensCraftPro-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/LensCraftPro-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI mockup on laptop screen. CONTENT: "Recommended for You" section showing compatible camera lens, UV filter, and memory card for Sony A7 IV. STYLE: Minimalist e-commerce interface, high-resolution. :: --&gt;
 *Figure 1: Real-time compatibility suggestions powered by Vector Retrieval and DeepFM*
 &lt;h2&gt;The Impact: 86.7% Conversion Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-867-conversion-growth"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-867-conversion-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;LensCraft Pro&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="../../charts/LensCraftPro.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/LensCraftPro.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The 86.7% conversion rate spike post-WooRec implementation*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;86.7%&lt;/strong&gt; (from 1.5% to 2.8%).&lt;/li&gt;
@@ -322,7 +322,7 @@
 &lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a data science team to build enterprise-grade recommendations. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just configuration—no coding required.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>100% Conversion Surge: PetitePerfect's AI Revolution in Petite Fashion</title><link>https://woorec.com/blogs/cases/2026-03-14t09-49-47+08-00-petiteperfect/</link><pubDate>Sat, 14 Mar 2026 09:49:47 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-03-14t09-49-47+08-00-petiteperfect/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Petite fashion clothing on diverse petite models in a bright studio setting. LIGHTING: Natural/Studio. NO digital overlays. --ar 2:1 :: --&gt;
-&lt;p&gt;&lt;img src="../../blogs/images/PetitePerfect-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/PetitePerfect-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/PetitePerfect-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/PetitePerfect-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;The 32% Return Rate Crisis&lt;span class="hx:absolute hx:-mt-20" id="the-32-return-rate-crisis"&gt;&lt;/span&gt;
 &lt;a href="#the-32-return-rate-crisis" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;PetitePerfect&lt;/code&gt;, scaling to &lt;code&gt;$65,000&lt;/code&gt; monthly GMV brought a critical challenge: &lt;code&gt;High return rate (32%) due to clothing/pants length mismatch despite detailed size charts&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;petite women (5'4&amp;quot; and under) aged 25-40&lt;/code&gt; demanded relevance. Traditional recommendation algorithms failed with insufficient user data, leading to expensive traffic acquisition and limited conversion (1.8%). Non-petite models in product imagery created a disconnect, while free alteration costs eroded margins.&lt;/p&gt;
@@ -360,12 +360,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;PetitePerfect&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="../../images/PetitePerfect-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/PetitePerfect-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI Mockup prompt. SCENE: Clean e-commerce UI on a laptop. CONTENT: 'Recommended for You' section showing petite-specific garments (e.g., cropped trousers, tailored jackets). STYLE: Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 43.75% Reduction in Return Rate&lt;span class="hx:absolute hx:-mt-20" id="the-impact-4375-reduction-in-return-rate"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-4375-reduction-in-return-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;PetitePerfect&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="../../charts/PetitePerfect.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/PetitePerfect.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Return Rate&lt;/strong&gt;: Reduced by &lt;strong&gt;43.75%&lt;/strong&gt;.&lt;/li&gt;
