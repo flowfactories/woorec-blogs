@@ -28,11 +28,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.152.2'
+          hugo-version: '0.159.1'
           extended: true
       
       - name: Build with Hugo
-        run: hugo --minify --baseURL "https://woorec.com/blog/" --relativeURLs --canonifyURLs=false
+        run: hugo --minify --baseURL "https://woorec.com/blogs/" --relativeURLs --canonifyURLs=false
       
       - name: Deploy to blog branch
         uses: peaceiris/actions-gh-pages@v3
