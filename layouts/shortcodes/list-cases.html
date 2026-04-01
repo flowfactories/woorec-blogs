@@ -36,6 +36,7 @@
         <!-- 图片区域：强制 200px 高度，裁剪多余部分 -->
         <div style="width: 100%; height: 200px; overflow: hidden; position: relative; background-color: #f3f4f6;">
           {{ if .Params.image }}
+            {{ $imgPath := .Params.image | strings.TrimPrefix "/" }}
             <img src="{{ .Params.image | relURL }}" 
                  alt="{{ .Title }}" 
                  style="
