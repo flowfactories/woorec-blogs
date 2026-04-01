@@ -1,0 +1,5 @@
+{{- /* Render hook for markdown images: convert absolute path to relURL to respect baseURL/subpath. */ -}}
+{{- $src := .Destination -}}
+{{- /* Strip leading slash so relURL does not treat as root path */ -}}
+{{- $src = $src | strings.TrimPrefix "/" -}}
+<img src="{{ $src | relURL }}" alt="{{ .Text }}" title="{{ .Title }}" loading="lazy" />

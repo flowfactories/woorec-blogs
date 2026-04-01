@@ -52,8 +52,7 @@
         <!-- 图片区域：强制 220px 高度 -->
         <div style="height: 220px; position: relative; background-color: #f3f4f6; overflow: hidden;">
           {{ if .Params.image }}
-            {{ $imgPath := .Params.image | strings.TrimPrefix "/" }}
-            <img src="{{ $imgPath | relURL }}" 
+            <img src="{{ .Params.image | relURL }}" 
                  alt="{{ .Title }}" 
                  style="
                    width: 100%; 
