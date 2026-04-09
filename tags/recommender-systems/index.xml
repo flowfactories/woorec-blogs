@@ -1,4 +1,70 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – Recommender Systems</title><link>https://woorec.com/blogs/tags/recommender-systems/</link><description>Recent content in Recommender Systems on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 09:50:22 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><item><title>83.33% Consultation Conversion Surge: Lumière Fine Jewelry's Visualization Revolution</title><link>https://woorec.com/blogs/cases/2026-04-08t09-50-22+08-00-lumi%C3%A8refinejewelry/</link><pubDate>Wed, 08 Apr 2026 09:50:22 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-08t09-50-22+08-00-lumi%C3%A8refinejewelry/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – Recommender Systems</title><link>https://woorec.com/blogs/tags/recommender-systems/</link><description>Recent content in Recommender Systems on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 09:48:53 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml"/><item><title>BeanCraft Roasters Drives 83.3% Cross-Sell Surge with Custom AI Recommendation Engine</title><link>https://woorec.com/blogs/cases/2026-04-09t09-48-53+08-00-beancraftroasters/</link><pubDate>Thu, 09 Apr 2026 09:48:53 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-09t09-48-53+08-00-beancraftroasters/</guid><description>
+&lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Artisanal coffee beans and precision brewing equipment in a sunlit minimalist kitchen. Freshly ground coffee dust particles visible in air. Natural lighting from large windows. NO digital overlays. --ar 2:1 :: --&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/BeanCraftRoasters-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/BeanCraftRoasters-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" title="" loading="lazy" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;The Equipment Compatibility Crisis&lt;span class="hx:absolute hx:-mt-20" id="the-equipment-compatibility-crisis"&gt;&lt;/span&gt;
+&lt;a href="#the-equipment-compatibility-crisis" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;BeanCraft Roasters&lt;/code&gt;, scaling to &lt;code&gt;$2.5M&lt;/code&gt; monthly GMV brought a critical challenge: &lt;code&gt;Equipment mismatch issues where customers purchase beans incompatible with their brewing methods, resulting in negative experiences&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;coffee enthusiasts and specialty coffee shops&lt;/code&gt; demanded relevance. Their self-developed system couldn&amp;rsquo;t prevent customers from buying Ethiopian beans requiring paper filters for espresso machines equipped only with metal baskets, creating cascading returns and eroding trust in their &amp;ldquo;Precision in Every Cup&amp;rdquo; promise.&lt;/p&gt;
+&lt;h2&gt;From Legacy Rules to Multi-Task Deep Learning&lt;span class="hx:absolute hx:-mt-20" id="from-legacy-rules-to-multi-task-deep-learning"&gt;&lt;/span&gt;
+&lt;a href="#from-legacy-rules-to-multi-task-deep-learning" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To solve this, &lt;code&gt;BeanCraft Roasters&lt;/code&gt; deployed &lt;strong&gt;WooRec&lt;/strong&gt;.&lt;br&gt;
+&lt;em&gt;Note: They leveraged WooRec Private Deployment for the perfect balance of speed and control.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The transformation wasn&amp;rsquo;t instant. We architected a phased evolution of their recommendation engine:&lt;/p&gt;
+&lt;h3&gt;Phase 1: Semantic Candidate Expansion&lt;span class="hx:absolute hx:-mt-20" id="phase-1-semantic-candidate-expansion"&gt;&lt;/span&gt;
+&lt;a href="#phase-1-semantic-candidate-expansion" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Strategy Module&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We needed to move beyond basic keyword matching. We implemented a &lt;strong&gt;Hybrid Recall&lt;/strong&gt; strategy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Foundation&lt;/strong&gt;: We started by ensuring popular items were visible via &lt;strong&gt;Hot Retrieval&lt;/strong&gt;, solving the Cold Start problem for new brewing equipment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced&lt;/strong&gt;: Vector Retrieval (Embedding)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Logic&lt;/em&gt;: We mapped users and items into a high-dimensional vector space using FAISS/Graph Embedding, capturing latent relationships between brewing methods, flavor profiles, and equipment types.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Result&lt;/em&gt;: This allowed us to discover &amp;ldquo;compatibility clusters&amp;rdquo;—finding items that were functionally related beyond textual descriptions (e.g., linking coarse-grind beans to French press users).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Phase 2: Multi-Task Model Evolution (LR to ESSM)&lt;span class="hx:absolute hx:-mt-20" id="phase-2-multi-task-model-evolution-lr-to-essm"&gt;&lt;/span&gt;
+&lt;a href="#phase-2-multi-task-model-evolution-lr-to-essm" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Model Serving&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is the core of the engine. To achieve the target &lt;code&gt;cross-sell rate&lt;/code&gt;, we iterated through three stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The Baseline (Logistic Regression)&lt;/strong&gt;: Initially, we used linear models. While fast, they failed to capture complex feature interactions between freshness constraints and equipment specs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Upgrade (DeepFM)&lt;/strong&gt;: We introduced Deep Factorization Machines to learn high-order feature interactions, improving accuracy on sparse compatibility data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Final State (ESSM)&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why this model?&lt;/em&gt;: To solve the CVR estimation bias inherent in subscription-focused businesses, we deployed Entire Space Multi-Task Model (ESSM). This simultaneously optimized CTR for equipment discovery and CVR for subscription renewals, resolving the tension between immediate cross-sell and long-term retention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Phase 3: Freshness-Aware Traffic Control&lt;span class="hx:absolute hx:-mt-20" id="phase-3-freshness-aware-traffic-control"&gt;&lt;/span&gt;
+&lt;a href="#phase-3-freshness-aware-traffic-control" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Rule Engine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Raw scores are just probability predictions. To align with business goals, we applied a &lt;strong&gt;Traffic Control Layer&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Diversity (Scatter/Shuffle)&lt;/strong&gt;: We implemented a sliding window rule—&lt;em&gt;no more than 2 items from the same origin in a row&lt;/em&gt;—to prevent flavor fatigue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Injection (Hard Insertion)&lt;/strong&gt;: Specific slots (e.g., Position 4 and 10) were reserved for &lt;code&gt;BeanCraft Roasters&lt;/code&gt;&amp;rsquo; high-margin proprietary brewing accessories.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Weighting&lt;/strong&gt;: We boosted items based on &lt;strong&gt;Inventory Freshness and Profit Margin&lt;/strong&gt;, ensuring the AI prioritized beans nearing peak roast dates while protecting margins on premium equipment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Compatibility-First User Experience&lt;span class="hx:absolute hx:-mt-20" id="the-compatibility-first-user-experience"&gt;&lt;/span&gt;
+&lt;a href="#the-compatibility-first-user-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;BeanCraft Roasters&lt;/code&gt; storefront:&lt;/p&gt;
+&lt;img src="https://woorec.com/blogs/images/BeanCraftRoasters-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;!-- ::IMAGE_PROMPT:: Minimalist UI mockup on a tablet device. CONTENT: "Recommended for Your Aeropress" section showing specific coffee beans with grind size indicators and compatible filter options. STYLE: Clean, high-resolution with subtle wood texture background. :: --&gt;
+*Figure 1: The result of WooRec's engine—equipment-specific recommendations with compatibility indicators.*
+&lt;h2&gt;The Impact: 83.3% Cross-Sell Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-833-cross-sell-growth"&gt;&lt;/span&gt;
+&lt;a href="#the-impact-833-cross-sell-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;BeanCraft Roasters&lt;/code&gt; achieved:&lt;/p&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/BeanCraftRoasters.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cross-sell rate&lt;/strong&gt;: Increased by &lt;strong&gt;83.3%&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Subscription renewal rate&lt;/strong&gt;: Improved by &lt;strong&gt;20%&lt;/strong&gt; (from 65% to 78%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Return rate&lt;/strong&gt;: Decreased by &lt;strong&gt;62.5%&lt;/strong&gt; (from 8% to 3%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Average order value&lt;/strong&gt;: Increased by &lt;strong&gt;28.9%&lt;/strong&gt; (from $45 to $58).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customer satisfaction score&lt;/strong&gt;: Improved by &lt;strong&gt;21.1%&lt;/strong&gt; (from 3.8 to 4.6).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Customer Voice&lt;span class="hx:absolute hx:-mt-20" id="customer-voice"&gt;&lt;/span&gt;
+&lt;a href="#customer-voice" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Moving from manual rules to ESSM was a turning point. The system now balances user intent with our business inventory logic perfectly. The 83.3% lift in cross-sell rate speaks for itself.&amp;rdquo;
+— &lt;em&gt;Sofia Chen, Head of Data Science at BeanCraft Roasters&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Ready to Configure Your Growth?&lt;span class="hx:absolute hx:-mt-20" id="ready-to-configure-your-growth"&gt;&lt;/span&gt;
+&lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a team of data scientists to build a world-class recommendation engine. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just a matter of configuration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>83.33% Consultation Conversion Surge: Lumière Fine Jewelry's Visualization Revolution</title><link>https://woorec.com/blogs/cases/2026-04-08t09-50-22+08-00-lumi%C3%A8refinejewelry/</link><pubDate>Wed, 08 Apr 2026 09:50:22 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-08t09-50-22+08-00-lumi%C3%A8refinejewelry/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Diamond necklace on silk velvet in natural light studio setting. LIGHTING: Soft directional window light. NO digital overlays. --ar 2:1 :: --&gt;
 &lt;p&gt;&lt;img src="https://woorec.com/blogs/images/Lumi%c3%a8reFineJewelry-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/LumièreFineJewelry-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" title="" loading="lazy" /&gt;
 &lt;/p&gt;
