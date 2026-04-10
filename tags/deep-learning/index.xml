@@ -1,4 +1,69 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – Deep Learning</title><link>https://woorec.com/blogs/tags/deep-learning/</link><description>Recent content in Deep Learning on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 09:48:53 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>BeanCraft Roasters Drives 83.3% Cross-Sell Surge with Custom AI Recommendation Engine</title><link>https://woorec.com/blogs/cases/2026-04-09t09-48-53+08-00-beancraftroasters/</link><pubDate>Thu, 09 Apr 2026 09:48:53 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-09t09-48-53+08-00-beancraftroasters/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – Deep Learning</title><link>https://woorec.com/blogs/tags/deep-learning/</link><description>Recent content in Deep Learning on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 09:48:26 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>133.3% Attachment Rate Surge: How TinyRide Strollers Engineered AI-Driven Cross-Selling</title><link>https://woorec.com/blogs/cases/2026-04-10t09-48-26+08-00-tinyridestrollers/</link><pubDate>Fri, 10 Apr 2026 09:48:26 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-10t09-48-26+08-00-tinyridestrollers/</guid><description>
+&lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: TinyRide stroller in a minimalist urban apartment with natural lighting, showcasing storage compatibility. NO digital overlays. --ar 2:1] :: --&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/TinyRideStrollers-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/TinyRideStrollers-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" title="" loading="lazy" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;The Storage Crisis: When 25% of Sales Walked Back the Door&lt;span class="hx:absolute hx:-mt-20" id="the-storage-crisis-when-25-of-sales-walked-back-the-door"&gt;&lt;/span&gt;
+&lt;a href="#the-storage-crisis-when-25-of-sales-walked-back-the-door" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;TinyRide Strollers&lt;/code&gt;, scaling to &lt;code&gt;$75,000&lt;/code&gt; monthly GMV brought a critical challenge: &lt;code&gt;High return rates due to customers receiving strollers that don't match their space constraints&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;New and expecting parents aged 25-40&lt;/code&gt; demanded relevance. Parents would order premium strollers, only to discover they didn&amp;rsquo;t fit their car trunks or apartment storage. With returns costing 25% of revenue and CAC at $45, their manual accessory recommendations couldn&amp;rsquo;t solve the fundamental mismatch between product dimensions and customer realities.&lt;/p&gt;
+&lt;h2&gt;From Rules to DeepFM: Engineering a WooCommerce Recommendation Revolution&lt;span class="hx:absolute hx:-mt-20" id="from-rules-to-deepfm-engineering-a-woocommerce-recommendation-revolution"&gt;&lt;/span&gt;
+&lt;a href="#from-rules-to-deepfm-engineering-a-woocommerce-recommendation-revolution" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To solve this, &lt;code&gt;TinyRide Strollers&lt;/code&gt; deployed &lt;strong&gt;WooRec&lt;/strong&gt;.
+&lt;em&gt;Note: Depending on their scale, they leveraged WooRec SaaS for the perfect balance of speed and control.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The transformation wasn&amp;rsquo;t instant. We architected a phased evolution of their recommendation engine:&lt;/p&gt;
+&lt;h3&gt;Phase 1: Expanding the Candidate Pool&lt;span class="hx:absolute hx:-mt-20" id="phase-1-expanding-the-candidate-pool"&gt;&lt;/span&gt;
+&lt;a href="#phase-1-expanding-the-candidate-pool" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Strategy Module&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We needed to move beyond simple keyword matching. We implemented a &lt;strong&gt;Hybrid Recall&lt;/strong&gt; strategy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Foundation&lt;/strong&gt;: We started by ensuring popular items were visible via &lt;strong&gt;Hot Retrieval&lt;/strong&gt;, solving the Cold Start problem for new parents browsing strollers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced&lt;/strong&gt;: &lt;strong&gt;Tag-Based Matching&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Logic&lt;/em&gt;: We configured tag weights to align user interests with product categories (e.g., &amp;ldquo;compact fold&amp;rdquo; for urban dwellers, &amp;ldquo;all-terrain wheels&amp;rdquo; for suburban parents).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Result&lt;/em&gt;: This allowed us to capture &amp;ldquo;latent interests&amp;rdquo;—finding car seat adapters compatible with specific stroller models, not just textually similar items.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Phase 2: The Model Evolution (LR to DeepFM)&lt;span class="hx:absolute hx:-mt-20" id="phase-2-the-model-evolution-lr-to-deepfm"&gt;&lt;/span&gt;
+&lt;a href="#phase-2-the-model-evolution-lr-to-deepfm" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Model Serving&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is the core of the engine. To achieve the target &lt;code&gt;Attachment Rate&lt;/code&gt;, we iterated through three stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The Baseline (Logistic Regression)&lt;/strong&gt;: Initially, we used linear models. While fast, they failed to capture complex feature interactions like &amp;ldquo;storage compatibility + price sensitivity.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Upgrade (DeepFM)&lt;/strong&gt;: We introduced Deep Factorization Machines to learn high-order feature interactions, significantly improving accuracy on sparse data. This was critical for predicting which accessories would complement specific stroller models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Final State (DeepFM)&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why this model?&lt;/em&gt;: DeepFM&amp;rsquo;s ability to model feature interactions through both linear components and DNNs made it ideal for TinyRide&amp;rsquo;s sparse dataset, where user behavior patterns were still emerging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Phase 3: Traffic Control &amp;amp; Business Logic&lt;span class="hx:absolute hx:-mt-20" id="phase-3-traffic-control--business-logic"&gt;&lt;/span&gt;
+&lt;a href="#phase-3-traffic-control--business-logic" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Rule Engine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Raw scores are just probability predictions. To align with business goals, we applied a &lt;strong&gt;Traffic Control Layer&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Diversity (Scatter/Shuffle)&lt;/strong&gt;: We implemented a sliding window rule—&lt;em&gt;no more than 2 stroller accessories in a row&lt;/em&gt;—to prevent visual fatigue and encourage discovery.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Injection (Hard Insertion)&lt;/strong&gt;: Specific slots (e.g., Position 4 and 10) were reserved for &lt;code&gt;TinyRide Strollers&lt;/code&gt;&amp;rsquo; high-margin storage solutions (e.g., trunk organizers).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Weighting&lt;/strong&gt;: We boosted items based on &lt;strong&gt;Inventory Depth&lt;/strong&gt;, ensuring the AI prioritized in-stock accessories to prevent backorder situations that could increase return rates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
+&lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;TinyRide Strollers&lt;/code&gt; storefront:&lt;/p&gt;
+&lt;img src="https://woorec.com/blogs/images/TinyRideStrollers-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;!-- ::IMAGE_PROMPT:: UI Mockup. SCENE: Clean WooCommerce product page on a laptop. CONTENT: "Frequently Bought Together" section showing a stroller with compatible car seat adapter and storage caddy. STYLE: Minimalist, High-Res.] :: --&gt;
+*Figure 1: The result of WooRec's engine—hyper-relevant product bundles displayed to the user.*
+&lt;h2&gt;The Impact: 133.3% Attachment Rate Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-1333-attachment-rate-growth"&gt;&lt;/span&gt;
+&lt;a href="#the-impact-1333-attachment-rate-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;TinyRide Strollers&lt;/code&gt; achieved:&lt;/p&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/TinyRideStrollers.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Attachment Rate&lt;/strong&gt;: Increased by &lt;strong&gt;133.3%&lt;/strong&gt; (from 15% to 35%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Return Rate&lt;/strong&gt;: Reduced by &lt;strong&gt;52%&lt;/strong&gt; (from 25% to 12%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Average Order Value&lt;/strong&gt;: Grew &lt;strong&gt;29.6%&lt;/strong&gt; (from $135 to $175).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customer Acquisition Cost&lt;/strong&gt;: Dropped &lt;strong&gt;33.3%&lt;/strong&gt; (from $45 to $30).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Customer Voice&lt;span class="hx:absolute hx:-mt-20" id="customer-voice"&gt;&lt;/span&gt;
+&lt;a href="#customer-voice" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Moving from manual rules to &lt;strong&gt;DeepFM&lt;/strong&gt; was a turning point. The system now balances user intent with our storage dimension logic perfectly. The &lt;strong&gt;133.3% lift in Attachment Rate&lt;/strong&gt; speaks for itself.&amp;rdquo;
+— &lt;em&gt;Alex Rivera, Co-Founder at &lt;code&gt;TinyRide Strollers&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Ready to Configure Your Growth?&lt;span class="hx:absolute hx:-mt-20" id="ready-to-configure-your-growth"&gt;&lt;/span&gt;
+&lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a team of data scientists to build a world-class recommendation engine. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just a matter of configuration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>BeanCraft Roasters Drives 83.3% Cross-Sell Surge with Custom AI Recommendation Engine</title><link>https://woorec.com/blogs/cases/2026-04-09t09-48-53+08-00-beancraftroasters/</link><pubDate>Thu, 09 Apr 2026 09:48:53 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-09t09-48-53+08-00-beancraftroasters/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Artisanal coffee beans and precision brewing equipment in a sunlit minimalist kitchen. Freshly ground coffee dust particles visible in air. Natural lighting from large windows. NO digital overlays. --ar 2:1 :: --&gt;
 &lt;p&gt;&lt;img src="https://woorec.com/blogs/images/BeanCraftRoasters-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/BeanCraftRoasters-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" title="" loading="lazy" /&gt;
 &lt;/p&gt;
