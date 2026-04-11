@@ -1,4 +1,69 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – Deep Learning</title><link>https://woorec.com/blogs/tags/deep-learning/</link><description>Recent content in Deep Learning on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 09:48:26 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>133.3% Attachment Rate Surge: How TinyRide Strollers Engineered AI-Driven Cross-Selling</title><link>https://woorec.com/blogs/cases/2026-04-10t09-48-26+08-00-tinyridestrollers/</link><pubDate>Fri, 10 Apr 2026 09:48:26 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-10t09-48-26+08-00-tinyridestrollers/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WooRec – Deep Learning</title><link>https://woorec.com/blogs/tags/deep-learning/</link><description>Recent content in Deep Learning on WooRec</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 09:49:17 +0800</lastBuildDate><atom:link href="https://woorec.com/blogs/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>162.5% Accessory Surge: PrecisionTailor's 3D Customization Revolution</title><link>https://woorec.com/blogs/cases/2026-04-11t09-49-17+08-00-precisiontailor/</link><pubDate>Sat, 11 Apr 2026 09:49:17 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-11t09-49-17+08-00-precisiontailor/</guid><description>
+&lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Professional man in custom-tailored suit adjusting cufflink in luxury office setting. LIGHTING: Natural window light with soft studio fill. NO digital overlays. --ar 2:1 :: --&gt;
+&lt;p&gt;&lt;img src="https://woorec.com/blogs/images/PrecisionTailor-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/PrecisionTailor-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" title="" loading="lazy" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;The High Cost of Imperfect Fits&lt;span class="hx:absolute hx:-mt-20" id="the-high-cost-of-imperfect-fits"&gt;&lt;/span&gt;
+&lt;a href="#the-high-cost-of-imperfect-fits" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;: For &lt;code&gt;PrecisionTailor&lt;/code&gt;, scaling to &lt;code&gt;$2.5M&lt;/code&gt; monthly GMV brought a critical challenge: &lt;code&gt;Measurement data accuracy leading to high return rates (25%) on first-time custom orders&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;At this stage, standard rules failed. The &lt;code&gt;Professional men aged 28-55 seeking premium custom-tailored suits&lt;/code&gt; demanded relevance. Manual measurements and static images couldn&amp;rsquo;t convey fabric texture or prevent fitting errors, causing executives to return 1 in 4 bespoke orders while leaving premium accessories unpurchased.&lt;/p&gt;
+&lt;h2&gt;From Manual Customization to AI-Powered Precision&lt;span class="hx:absolute hx:-mt-20" id="from-manual-customization-to-ai-powered-precision"&gt;&lt;/span&gt;
+&lt;a href="#from-manual-customization-to-ai-powered-precision" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To solve this, &lt;code&gt;PrecisionTailor&lt;/code&gt; deployed &lt;strong&gt;WooRec&lt;/strong&gt;.
+&lt;em&gt;Note: Depending on their scale, they leveraged WooRec Private Deployment for the perfect balance of speed and control.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The transformation wasn&amp;rsquo;t instant. We architected a phased evolution of their recommendation engine:&lt;/p&gt;
+&lt;h3&gt;Phase 1: Expanding the Candidate Pool&lt;span class="hx:absolute hx:-mt-20" id="phase-1-expanding-the-candidate-pool"&gt;&lt;/span&gt;
+&lt;a href="#phase-1-expanding-the-candidate-pool" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Strategy Module&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We needed to move beyond simple keyword matching. We implemented a &lt;strong&gt;Hybrid Recall&lt;/strong&gt; strategy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Foundation&lt;/strong&gt;: We started by ensuring popular items were visible via &lt;strong&gt;Hot Retrieval&lt;/strong&gt;, solving the Cold Start problem.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced&lt;/strong&gt;: Vector Retrieval (Embedding)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Logic&lt;/em&gt;: We mapped users and items into a high-dimensional vector space using FAISS/Graph Embedding to capture &amp;ldquo;latent style preferences&amp;rdquo;—finding accessories semantically related to suit fabrics beyond textual tags.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Result&lt;/em&gt;: This enabled discovery of complementary ties and pocket squares even when customers didn&amp;rsquo;t explicitly search for them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Phase 2: The Model Evolution (LR to Deep Learning)&lt;span class="hx:absolute hx:-mt-20" id="phase-2-the-model-evolution-lr-to-deep-learning"&gt;&lt;/span&gt;
+&lt;a href="#phase-2-the-model-evolution-lr-to-deep-learning" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Model Serving&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is the core of the engine. To achieve the target &lt;code&gt;Attachment Rate&lt;/code&gt;, we iterated through three stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The Baseline (Logistic Regression)&lt;/strong&gt;: Initially, we used linear models. While fast, they failed to capture complex feature interactions between body measurements and fabric properties.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Upgrade (DeepFM)&lt;/strong&gt;: We introduced Deep Factorization Machines to learn high-order feature interactions, significantly improving accuracy on sparse customization data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Final State (ESSM)&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why this model?&lt;/em&gt;: To solve the CVR estimation bias for accessories, we deployed Entire Space Multi-Task Model (ESSM). This jointly modeled suit conversion (CTR) and accessory attachment (CVR) in a unified framework, eliminating the &amp;ldquo;selection bias&amp;rdquo; from traditional sequential models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Phase 3: Traffic Control &amp;amp; Business Logic&lt;span class="hx:absolute hx:-mt-20" id="phase-3-traffic-control--business-logic"&gt;&lt;/span&gt;
+&lt;a href="#phase-3-traffic-control--business-logic" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Powered by WooRec Rule Engine&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Raw scores are just probability predictions. To align with business goals, we applied a &lt;strong&gt;Traffic Control Layer&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Diversity (Scatter/Shuffle)&lt;/strong&gt;: We implemented a sliding window rule—&lt;em&gt;no more than 2 accessories from the same category in a row&lt;/em&gt;—to prevent visual fatigue during customization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Injection (Hard Insertion)&lt;/strong&gt;: Specific slots (e.g., Position 4 and 10) were reserved for &lt;code&gt;PrecisionTailor&lt;/code&gt;&amp;rsquo;s high-margin house brand cufflinks and pocket squares.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Weighting&lt;/strong&gt;: We boosted items based on &lt;strong&gt;Inventory Depth&lt;/strong&gt;, ensuring recommendations never suggested out-of-stock fabrics during global expansion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
+&lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;PrecisionTailor&lt;/code&gt; storefront:&lt;/p&gt;
+&lt;img src="https://woorec.com/blogs/images/PrecisionTailor-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on tablet. SCENE: Custom suit configuration screen with 'Recommended Accessories' section showing silk tie and silver cufflinks. STYLE: Minimalist luxury, High-Res. :: --&gt;
+*Figure 1: The result of WooRec's engine—hyper-relevant accessory recommendations displayed during suit customization.*
+&lt;h2&gt;The Impact: 162.5% Attachment Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-1625-attachment-growth"&gt;&lt;/span&gt;
+&lt;a href="#the-impact-1625-attachment-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;PrecisionTailor&lt;/code&gt; achieved:&lt;/p&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/PrecisionTailor.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Return Rate&lt;/strong&gt;: Decreased by &lt;strong&gt;64%&lt;/strong&gt; (from 25% to 9%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attachment Rate&lt;/strong&gt;: Improved by &lt;strong&gt;162.5%&lt;/strong&gt; (from 0.8 to 2.1 items per order).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;75%&lt;/strong&gt; (from 3.2% to 5.6%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Average Order Value&lt;/strong&gt;: Grew &lt;strong&gt;50%&lt;/strong&gt; (from $750 to $1,125).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Customer Voice&lt;span class="hx:absolute hx:-mt-20" id="customer-voice"&gt;&lt;/span&gt;
+&lt;a href="#customer-voice" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Moving from manual rules to &lt;strong&gt;ESSM&lt;/strong&gt; was a turning point. The system now balances user intent with our business inventory logic perfectly. The &lt;strong&gt;162.5%&lt;/strong&gt; lift in Attachment Rate speaks for itself.&amp;rdquo;
+— &lt;em&gt;Marcus Thorne, Chief Technology Officer at &lt;code&gt;PrecisionTailor&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Ready to Configure Your Growth?&lt;span class="hx:absolute hx:-mt-20" id="ready-to-configure-your-growth"&gt;&lt;/span&gt;
+&lt;a href="#ready-to-configure-your-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You don&amp;rsquo;t need a team of data scientists to build a world-class recommendation engine. With &lt;strong&gt;WooRec&lt;/strong&gt;, it&amp;rsquo;s just a matter of configuration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.woorec.com"target="_blank" rel="noopener"&gt;Launch Your Strategy with WooRec&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>133.3% Attachment Rate Surge: How TinyRide Strollers Engineered AI-Driven Cross-Selling</title><link>https://woorec.com/blogs/cases/2026-04-10t09-48-26+08-00-tinyridestrollers/</link><pubDate>Fri, 10 Apr 2026 09:48:26 +0800</pubDate><guid>https://woorec.com/blogs/cases/2026-04-10t09-48-26+08-00-tinyridestrollers/</guid><description>
 &lt;!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: TinyRide stroller in a minimalist urban apartment with natural lighting, showcasing storage compatibility. NO digital overlays. --ar 2:1] :: --&gt;
 &lt;p&gt;&lt;img src="https://woorec.com/blogs/images/TinyRideStrollers-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" alt="/images/TinyRideStrollers-hero.jpg?x-oss-process=image/resize,m_fixed,m_lfit,w_300?x-oss-process=image/resize,m_fixed,m_lfit,w_300" title="" loading="lazy" /&gt;
 &lt;/p&gt;
