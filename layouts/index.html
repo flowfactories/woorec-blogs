@@ -53,7 +53,7 @@
         <div style="height: 220px; position: relative; background-color: #f3f4f6; overflow: hidden;">
           {{ if .Params.image }}
             {{ $imgPath := .Params.image | strings.TrimPrefix "/" }}
-            <img src="{{ .Params.image | relURL }}" 
+            <img src="{{ $imgPath }}"
                  alt="{{ .Title }}" 
                  style="
                    width: 100%; 
