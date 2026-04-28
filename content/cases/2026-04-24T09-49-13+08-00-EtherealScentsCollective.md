@@ -11,6 +11,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
 ---
 
 <script type="application/ld+json">
+[
 {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -76,6 +77,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
     }
   ]
 }
+]
 </script>
 
 

@@ -11,6 +11,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
 ---
 
 <script type="application/ld+json">
+[
 {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -72,6 +73,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
     }
   ]
 }
+]
 </script>
 
 <!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. SUBJECT: Professional 3D printer with glowing filament spools in a modern workshop. LIGHTING: Natural daylight from large windows. NO digital overlays. --ar 2:1 :: -->

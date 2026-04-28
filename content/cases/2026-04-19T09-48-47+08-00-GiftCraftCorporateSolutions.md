@@ -11,6 +11,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
 ---
 
 <script type="application/ld+json">
+[
 {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -74,6 +75,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
     }
   ]
 }
+]
 </script>
 
 <!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k, corporate gift baskets on modern office desk with natural lighting, no digital overlays --ar 2:1 :: -->

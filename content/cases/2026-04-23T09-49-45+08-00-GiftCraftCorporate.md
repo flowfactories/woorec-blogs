@@ -11,6 +11,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
 ---
 
 <script type="application/ld+json">
+[
 {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -74,6 +75,7 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
     }
   ]
 }
+]
 </script>
 
 <!-- ::IMAGE_PROMPT:: High-end commercial photography, 8k. Corporate gift box with personalized engraving tools on marble surface. Natural window lighting. NO digital overlays. --ar 2:1 :: -->
