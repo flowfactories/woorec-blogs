@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: [self-hosted, ubuntu-latest]
+    runs-on: self-hosted
     
     steps:
       - name: Checkout Hugo source
