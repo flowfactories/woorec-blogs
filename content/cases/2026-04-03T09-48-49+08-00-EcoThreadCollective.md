@@ -58,7 +58,7 @@ Raw ESSM scores needed business alignment. We applied a **Traffic Control Layer*
 
 Here is how these intelligent recommendations appear on the `EcoThread Collective` storefront:
 
-<img src="/images/EcoThreadCollective-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/EcoThreadCollective-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a tablet device. CONTENT: "Recommended for You" section showing: 1) Organic Cotton Dress with water-saving icon, 2) Recycled Jacket with carbon footprint badge, 3) Fair-trade Scarf with artisan story link. STYLE: Minimalist, High-Res. :: -->
 *Figure 1: The result of WooRec's engine – hyper-relevant sustainable product recommendations with embedded impact metrics.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `EcoThread Collectiv
 
 The private deployment speed meant rapid results. By activating these strategies, `EcoThread Collective` achieved:
 
-<iframe src="/charts/EcoThreadCollective.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/EcoThreadCollective.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The exponential growth curve in Brand Story Reading Time post-ESSM deployment.*
 
 *   **Brand Story Reading Time**: Increased by **148.9%** (45s → 112s)

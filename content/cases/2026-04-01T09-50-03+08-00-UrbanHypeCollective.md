@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `UrbanHype Collective` storefront:
 
-<img src="/images/UrbanHypeCollective-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/UrbanHypeCollective-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on smartphone. CONTENT: "Recommended for You" section showing 3 streetwear items (hoodie, sneakers, cap) with product images and names. STYLE: Minimalist white background, high-res product photography. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `UrbanHype Collectiv
 
 The speed of deployment meant faster results. By toggling on these strategies, `UrbanHype Collective` achieved:
 
-<iframe src="/charts/UrbanHypeCollective.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/UrbanHypeCollective.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Sell-out Time**: Reduced by **61.7%** (from 4.7 to 1.8 minutes).

@@ -22,9 +22,9 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
         "@type": "Organization",
         "name": "WooRec"
       },
-      "url": "https://blog.woorec.com/cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/",
-      "@id": "https://blog.woorec.com/cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/",
-      "mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/",
+      "url": "{{< baseurl "cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/" >}}",
+      "@id": "{{< baseurl "cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/" >}}",
+      "mainEntityOfPage": "{{< baseurl "cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/" >}}",
       "image": "/images/EpicCosplayEmporium-hero.jpg",
       "datePublished": "2026-04-27T09:49:32+08:00",
       "publisher": {
@@ -108,7 +108,7 @@ Raw model scores needed business alignment:
 
 Here's how the **smart recommendation API** delivers hyper-personalized suggestions:
 
-<img src="/images/EpicCosplayEmporium-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/EpicCosplayEmporium-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup showing "Recommended Character Sets" section with three detailed cosplay costumes and accessories, minimalist design, high-res product photography. :: -->
 *Figure 1: EpicCosplay's storefront displaying character-set recommendations driven by WooRec's engine.*
 
@@ -116,7 +116,7 @@ Here's how the **smart recommendation API** delivers hyper-personalized suggesti
 
 Deployment speed accelerated results. Within 90 days:
 
-<iframe src="/charts/EpicCosplayEmporium.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/EpicCosplayEmporium.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: Uplift trajectory across key metrics post-WooRec integration*
 
 *   **Photo Sharing Rate**: Surged **158.3%** (12% → 31%).

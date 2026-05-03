@@ -58,7 +58,7 @@ Raw model scores were refined through **Traffic Control Layer**:
 
 Here’s how this intelligent engine manifests on the `LuxeLeather Collective` storefront:
 
-<img src="/images/LuxeLeatherCollective-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/LuxeLeatherCollective-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a tablet device. CONTENT: 'Recommended for You' section showing 3D-rotatable leather handbags with material texture swatches. STYLE: Minimalist luxury, high-res. :: -->
 *Figure 1: Hyper-relevant recommendations with interactive 3D material visualization powered by WooRec's engine.*
 
@@ -66,7 +66,7 @@ Here’s how this intelligent engine manifests on the `LuxeLeather Collective` s
 
 The private deployment enabled rapid iteration. By activating these strategies, `LuxeLeather Collective` achieved:
 
-<iframe src="/charts/LuxeLeatherCollective.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/LuxeLeatherCollective.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: 72.7% cross-selling growth post-WooRec implementation*
 
 *   **Cross-selling Rate**: Increased by **72.7%** (from 22% to 38%).

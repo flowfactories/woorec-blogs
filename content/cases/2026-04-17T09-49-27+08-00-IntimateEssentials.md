@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `Intimate Essentials` storefront:
 
-<img src="/images/IntimateEssentials-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/IntimateEssentials-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI Mockup, High-Res. SCENE: Clean WooCommerce product page on laptop. CONTENT: "Recommended for You" section showing intimate products with "Discreet Shipping" badges. STYLE: Minimalist, soft color palette. :: -->
 *Figure 1: The result of WooRec's engine—privacy-aware product recommendations displayed to first-time visitors.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `Intimate Essentials
 
 The speed of deployment meant faster results. By toggling on these strategies, `Intimate Essentials` achieved:
 
-<iframe src="/charts/IntimateEssentials.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/IntimateEssentials.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Guest Checkout Completion Rate**: Increased by **65.7%** (35% → 58%).

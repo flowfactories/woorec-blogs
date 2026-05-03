@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `Eternal Bridal Couture` storefront:
 
-<img src="/images/EternalBridalCouture-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/EternalBridalCouture-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI Mockup: Clean, minimalist e-commerce interface on a tablet. CONTENT: "Recommended for You" section showing 3 bridal gowns with style tags (e.g., "Mermaid," "Lace," "Plus-Size Fit") and measurement compatibility indicators. High-resolution, soft shadows. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `Eternal Bridal Cout
 
 The speed of deployment meant faster results. By toggling on these strategies, `Eternal Bridal Couture` achieved:
 
-<iframe src="/charts/EternalBridalCouture.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/EternalBridalCouture.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Consultation Conversion Rate**: Increased by **83.3%** (from 30% to 55%).

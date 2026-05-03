@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `Celebration Central` storefront:
 
-<img src="/images/CelebrationCentral-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/CelebrationCentral-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI Mockup. SCENE: Clean e-commerce product page on a tablet. CONTENT: "Complete Your Safari Theme" section showing coordinated animal-print plates, cups, and napkins with "Buy as Bundle" CTA. STYLE: Minimalist, high-resolution, pastel color palette. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `Celebration Central
 
 The speed of deployment meant faster results. By toggling on these strategies, `Celebration Central` achieved:
 
-<iframe src="/charts/CelebrationCentral.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/CelebrationCentral.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Conversion Rate**: Increased by **100%**.

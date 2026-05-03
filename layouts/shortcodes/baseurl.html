@@ -1,0 +1,6 @@
+{{- $path := .Get 0 -}}
+{{- if $path -}}
+  {{- printf "%s%s" site.BaseURL (strings.TrimPrefix "/" $path) -}}
+{{- else -}}
+  {{- site.BaseURL -}}
+{{- end -}}

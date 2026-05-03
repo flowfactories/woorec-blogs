@@ -56,7 +56,7 @@ Raw scores aren’t enough. We applied final adjustments to align with KPIs:
 
 Here’s how these intelligent recommendations appear on the `EpicCosplay Emporium` storefront:
 
-<img src="/images/EpicCosplayEmporium-dash.jpg" width="80%" alt="dashboard">  
+<img src="{{< baseurl "images/EpicCosplayEmporium-dash.jpg" >}}" width="80%" alt="dashboard">  
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a desktop browser. CONTENT: Show 'Recommended for You' section with specific cosplay costumes and accessories. STYLE: Minimalist, High-Res. --ar 2:1 :: -->  
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -64,7 +64,7 @@ Here’s how these intelligent recommendations appear on the `EpicCosplay Empori
 
 The speed of deployment meant faster results. By toggling these strategies, `EpicCosplay Emporium` achieved:
 
-<iframe src="/charts/EpicCosplayEmporium.html" width="100%" height="600" frameborder="0"></iframe>  
+<iframe src="{{< baseurl "charts/EpicCosplayEmporium.html" >}}" width="100%" height="600" frameborder="0"></iframe>  
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*  
 
 *   **Pre-sale Conversion Rate**: Increased by **52%** (25% → 38%).  

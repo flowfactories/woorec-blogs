@@ -31,8 +31,8 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
         }
       },
       "image": "/images/InkCraftProSupplies-hero.jpg",
-      "url": "https://blog.woorec.com/cases/2026-04-28T09-49-19+08-00-InkCraftProSupplies/",
-      "mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-28T09-49-19+08-00-InkCraftProSupplies/",
+      "url": "{{< baseurl "cases/2026-04-28T09-49-19+08-00-InkCraftProSupplies/" >}}",
+      "mainEntityOfPage": "{{< baseurl "cases/2026-04-28T09-49-19+08-00-InkCraftProSupplies/" >}}",
       "datePublished": "2026-04-28T09:49:19+08:00",
       "articleSection": "Ecommerce Personalization"
     },
@@ -126,7 +126,7 @@ Raw scores required business alignment. We applied a **Traffic Control Layer**:
 
 Here is how these intelligent recommendations appear on the `InkCraft Pro Supplies` storefront:
 
-<img src="/images/InkCraftProSupplies-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/InkCraftProSupplies-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean WooCommerce product page showing "Recommended for You" section with tattoo inks, needles, and compliance badges. Minimalist UI with product images and 5-star ratings. High-res device mockup. :: -->
 *Figure 1: Real-time recommendations with compliance badges driving trust*
 
@@ -134,7 +134,7 @@ Here is how these intelligent recommendations appear on the `InkCraft Pro Suppli
 
 The plug-and-play deployment accelerated results. By activating these strategies, `InkCraft Pro Supplies` achieved:
 
-<iframe src="/charts/InkCraftProSupplies.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/InkCraftProSupplies.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: Post-deployment metric acceleration*
 
 *   **Conversion Rate**: Increased by **133.3%** (1.8% → 4.2%).

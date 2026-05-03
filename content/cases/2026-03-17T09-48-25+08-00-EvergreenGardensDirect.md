@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `Evergreen Gardens Direct` storefront:
 
-<img src="/images/EvergreenGardensDirect-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/EvergreenGardensDirect-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a tablet device. CONTENT: "Recommended for You" section showing climate-specific plants (e.g., "Desert-Ready Succulents") with care difficulty badges and complementary tools (e.g., "Moisture Meter"). STYLE: Minimalist, High-Res.] :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `Evergreen Gardens D
 
 The speed of deployment meant faster results. By toggling on these strategies, `Evergreen Gardens Direct` achieved:
 
-<iframe src="/charts/EvergreenGardensDirect.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/EvergreenGardensDirect.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Cross-selling Rate**: Increased by **86.7%** (from 15% to 28%).

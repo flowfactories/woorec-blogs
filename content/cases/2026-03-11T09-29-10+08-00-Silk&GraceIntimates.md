@@ -57,7 +57,7 @@ Raw scores aren't enough. We applied final adjustments to align with business KP
 
 Here is how these intelligent recommendations appear on the `Silk & Grace Intimates` storefront:
 
-<img src="/images/Silk&GraceIntimates-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/Silk&GraceIntimates-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a laptop screen. CONTENT: "Complete Your Set" section showing a silk bra with 3 recommended matching panties in different styles. STYLE: Minimalist, High-Res. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -65,7 +65,7 @@ Here is how these intelligent recommendations appear on the `Silk & Grace Intima
 
 The speed of deployment meant faster results. By toggling on these strategies, `Silk & Grace Intimates` achieved:
 
-<iframe src="/charts/Silk&GraceIntimates.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/Silk&GraceIntimates.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Bra-Panty Matching Ratio**: Increased by **80%** (25% → 45%).

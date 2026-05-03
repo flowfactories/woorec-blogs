@@ -21,12 +21,12 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
     "@type": "Organization",
     "name": "WooRec"
   },
-  "url": "https://blog.woorec.com/cases/2026-04-24T09-49-13+08-00-EtherealScentsCollective/",
-  "@id": "https://blog.woorec.com/cases/2026-04-24T09-49-13+08-00-EtherealScentsCollective/",
+  "url": "{{< baseurl "cases/2026-04-24T09-49-13+08-00-EtherealScentsCollective/" >}}",
+  "@id": "{{< baseurl "cases/2026-04-24T09-49-13+08-00-EtherealScentsCollective/" >}}",
   "image": "/images/EtherealScentsCollective-hero.jpg",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://blog.woorec.com/cases/2026-04-24T09-49-13+08-00-EtherealScentsCollective/"
+    "@id": "{{< baseurl "cases/2026-04-24T09-49-13+08-00-EtherealScentsCollective/" >}}"
   },
   "datePublished": "2026-04-24T09:49:13+08:00",
   "publisher": {
@@ -131,7 +131,7 @@ Raw scores require business alignment. We applied a **Traffic Control Layer**:
 
 Here is how these intelligent recommendations appear on the `Ethereal Scents Collective` storefront:
 
-<img src="/images/EtherealScentsCollective-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/EtherealScentsCollective-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a tablet device. CONTENT: "Recommended for You" section showing artisanal fragrance bottles with names like "Oud Mystique" and "Amber Reverie". STYLE: Minimalist luxury, high-resolution. :: -->
 *Figure 1: WooRec's engine displaying hyper-personalized fragrance recommendations based on virtual scent profiling.*
 
@@ -139,7 +139,7 @@ Here is how these intelligent recommendations appear on the `Ethereal Scents Col
 
 The SaaS deployment delivered immediate results. By activating these strategies, `Ethereal Scents Collective` achieved:
 
-<iframe src="/charts/EtherealScentsCollective.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/EtherealScentsCollective.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: Sample conversion rate doubling from 15% to 30% within 60 days*
 
 *   **Sample Conversion Rate**: Increased by **100%** (15% → 30%).

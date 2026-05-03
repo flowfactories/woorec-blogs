@@ -29,11 +29,11 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
       "url": "https://www.woorec.com/logo.png"
     }
   },
-  "url": "https://blog.woorec.com/cases/2026-04-19T09-48-47+08-00-GiftCraftCorporateSolutions/",
-  "@id": "https://blog.woorec.com/cases/2026-04-19T09-48-47+08-00-GiftCraftCorporateSolutions/",
+  "url": "{{< baseurl "cases/2026-04-19T09-48-47+08-00-GiftCraftCorporateSolutions/" >}}",
+  "@id": "{{< baseurl "cases/2026-04-19T09-48-47+08-00-GiftCraftCorporateSolutions/" >}}",
   "image": "/images/GiftCraftCorporateSolutions-hero.jpg",
   "datePublished": "2026-04-19T09:48:47+08:00",
-  "mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-19T09-48-47+08-00-GiftCraftCorporateSolutions/",
+  "mainEntityOfPage": "{{< baseurl "cases/2026-04-19T09-48-47+08-00-GiftCraftCorporateSolutions/" >}}",
   "articleBody": "GiftCraft Corporate Solutions, a WooCommerce-based corporate gifting platform, struggled with manual customization workflows and high CAC. By deploying WooRec's AI product recommendation engine, they achieved a 100% increase in repeat purchase rate and 40% reduction in customer acquisition costs through phased implementation of Hot Retrieval, DeepFM ranking, and dynamic traffic control.",
   "articleSection": "Ecommerce Technology"
 },
@@ -127,7 +127,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `GiftCraft Corporate Solutions` storefront:
 
-<img src="/images/GiftCraftCorporateSolutions-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/GiftCraftCorporateSolutions-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Minimalist high-res UI mockup of WooCommerce dashboard showing 'Recommended for You' with corporate gift products :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -135,7 +135,7 @@ Here is how these intelligent recommendations appear on the `GiftCraft Corporate
 
 The speed of deployment meant faster results. By toggling on these strategies, `GiftCraft Corporate Solutions` achieved:
 
-<iframe src="/charts/GiftCraftCorporateSolutions.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/GiftCraftCorporateSolutions.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Inquiry Conversion Rate**: Increased by **66.7%** (15% → 25%).

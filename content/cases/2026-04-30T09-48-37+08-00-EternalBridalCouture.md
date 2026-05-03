@@ -21,9 +21,9 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
       "@type": "Organization",
       "name": "WooRec"
     },
-    "url": "https://blog.woorec.com/cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/",
-    "@id": "https://blog.woorec.com/cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/",
-    "mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/",
+    "url": "{{< baseurl "cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/" >}}",
+    "@id": "{{< baseurl "cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/" >}}",
+    "mainEntityOfPage": "{{< baseurl "cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/" >}}",
     "image": "/images/EternalBridalCouture-hero.jpg",
     "datePublished": "2026-04-30T09:48:37+08:00",
     "publisher": {
@@ -108,7 +108,7 @@ Raw AI scores needed business logic refinement:
 
 Here’s how the **smart recommendation API** appears on Eternal Bridal Couture’s storefront:
 
-<img src="/images/EternalBridalCouture-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/EternalBridalCouture-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup showing bridal gown recommendations with "Recommended for You" header. Minimalist design, high-resolution. :: -->
 *Figure 1: AI-powered recommendations featuring personalized gown suggestions with style-matched accessories.*
 
@@ -116,7 +116,7 @@ Here’s how the **smart recommendation API** appears on Eternal Bridal Couture�
 
 Rapid deployment delivered immediate results. By activating these strategies, `Eternal Bridal Couture` achieved:
 
-<iframe src="/charts/EternalBridalCouture.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/EternalBridalCouture.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: Consultation conversion rate growth curve following AI implementation*
 
 *   **Consultation Conversion Rate**: Increased by **60%** (25% → 40%)
