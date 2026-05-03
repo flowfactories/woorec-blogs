@@ -10,10 +10,10 @@
 "@type": "Organization",
 "name": "WooRec"
 },
-"url": "{ .Site.BaseURL }cases/2026-05-03T16-09-49+08-00-CosplayCrafters/",
-"@id": "{ .Site.BaseURL }cases/2026-05-03T16-09-49+08-00-CosplayCrafters/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-03T16-09-49+08-00-CosplayCrafters/",
-"image": "/images/CosplayCrafters-hero.jpg",
+"url": "https://woorec.com/blogs/cases/2026-05-03T16-09-49&amp;#43;08-00-CosplayCrafters/",
+"@id": "https://woorec.com/blogs/cases/2026-05-03T16-09-49&amp;#43;08-00-CosplayCrafters/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-03T16-09-49&amp;#43;08-00-CosplayCrafters/",
+"image": "https://woorec.com/blogs/images/CosplayCrafters-hero.jpg",
 "publisher": {
 "@type": "Organization",
 "name": "WooRec",
@@ -108,12 +108,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;CosplayCrafters&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/CosplayCrafters-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/CosplayCrafters-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI Mockup, minimalist high-res. SCENE: Mobile app screen. CONTENT: "Recommended for You" showing 3 cosplay items (e.g., sword, armor, helmet) with character names and prices. STYLE: Clean, dark theme with vibrant product highlights. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 133% Repeat Purchase Surge&lt;span class="hx:absolute hx:-mt-20" id="the-impact-133-repeat-purchase-surge"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-133-repeat-purchase-surge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;CosplayCrafters&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/CosplayCrafters.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/CosplayCrafters.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Repeat Purchase Rate&lt;/strong&gt;: Increased by &lt;strong&gt;133.3%&lt;/strong&gt;.&lt;/li&gt;
@@ -152,8 +152,8 @@ Real-time intent modeling via vector retrieval captures user behavior instantly.
 "url": "https://www.woorec.com/logo.png"
 }
 },
-"url": "https://blog.woorec.com/cases/2026-05-02T09-50-16+08-00-HopCraftBrewers/",
-"mainEntityOfPage": "https://blog.woorec.com/cases/2026-05-02T09-50-16+08-00-HopCraftBrewers/",
+"url": "https://woorec.com/blogs/cases/2026-05-02T09-50-16&amp;#43;08-00-HopCraftBrewers/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-02T09-50-16&amp;#43;08-00-HopCraftBrewers/",
 "image": "/images/HopCraftBrewers-hero.jpg",
 "datePublished": "2026-05-02T09:50:16+08:00",
 "dateModified": "2026-05-02T09:50:16+08:00",
@@ -285,9 +285,9 @@ Yes. Through dynamic bundling and margin-based re-ranking, HopCraft achieved 36.
 "@type": "Organization",
 "name": "WooRec"
 },
-"url": "https://blog.woorec.com/cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/",
-"@id": "https://blog.woorec.com/cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/",
-"mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-30T09-48-37+08-00-EternalBridalCouture/",
+"url": "https://woorec.com/blogs/cases/2026-04-30T09-48-37&amp;#43;08-00-EternalBridalCouture/",
+"@id": "https://woorec.com/blogs/cases/2026-04-30T09-48-37&amp;#43;08-00-EternalBridalCouture/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-04-30T09-48-37&amp;#43;08-00-EternalBridalCouture/",
 "image": "/images/EternalBridalCouture-hero.jpg",
 "datePublished": "2026-04-30T09:48:37+08:00",
 "publisher": {
@@ -411,9 +411,9 @@ AI-driven virtual try-on technology alleviates purchase anxiety by providing pre
 "url": "/images/StrategicRealms-hero.jpg"
 }
 },
-"url": "https://blog.woorec.com/cases/2026-04-28T22-21-58+08-00-StrategicRealms/",
-"@id": "https://blog.woorec.com/cases/2026-04-28T22-21-58+08-00-StrategicRealms/",
-"mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-28T22-21-58+08-00-StrategicRealms/",
+"url": "https://woorec.com/blogs/cases/2026-04-28T22-21-58&amp;#43;08-00-StrategicRealms/",
+"@id": "https://woorec.com/blogs/cases/2026-04-28T22-21-58&amp;#43;08-00-StrategicRealms/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-04-28T22-21-58&amp;#43;08-00-StrategicRealms/",
 "image": "/images/StrategicRealms-hero.jpg",
 "datePublished": "2026-04-28T22:21:58+08:00",
 "articleSection": "Ecommerce Technology",
@@ -519,9 +519,9 @@ Real-time intent prediction via vector embeddings and dynamic re-ranking surface
 "@type": "Organization",
 "name": "WooRec"
 },
-"url": "https://blog.woorec.com/cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/",
-"@id": "https://blog.woorec.com/cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/",
-"mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-27T09-49-32+08-00-EpicCosplayEmporium/",
+"url": "https://woorec.com/blogs/cases/2026-04-27T09-49-32&amp;#43;08-00-EpicCosplayEmporium/",
+"@id": "https://woorec.com/blogs/cases/2026-04-27T09-49-32&amp;#43;08-00-EpicCosplayEmporium/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-04-27T09-49-32&amp;#43;08-00-EpicCosplayEmporium/",
 "image": "/images/EpicCosplayEmporium-hero.jpg",
 "datePublished": "2026-04-27T09:49:32+08:00",
 "publisher": {
@@ -626,9 +626,9 @@ AI recommendation engines like WooRec use real-time intent modeling and dynamic 
 "headline": "AI Product Recommendation Engine: 78% CVR Surge",
 "description": "PrintForge reduced print failures &amp; boosted CVR 78% with a private AI recommendation engine. Learn how.",
 "author": {"@type": "Organization", "name": "WooRec"},
-"url": "https://blog.woorec.com/cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/",
-"@id": "https://blog.woorec.com/cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/",
-"mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/",
+"url": "https://woorec.com/blogs/cases/2026-04-26T09-49-11&amp;#43;08-00-PrintForgeTechnologies/",
+"@id": "https://woorec.com/blogs/cases/2026-04-26T09-49-11&amp;#43;08-00-PrintForgeTechnologies/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-04-26T09-49-11&amp;#43;08-00-PrintForgeTechnologies/",
 "image": "/images/PrintForgeTechnologies-hero.jpg",
 "publisher": {
 "@type": "Organization",
@@ -766,8 +766,8 @@ By analyzing printer models, material compatibility, and user behavior, APIs lik
 }
 },
 "image": "/images/BloomMaternity-hero.jpg",
-"url": "https://blog.woorec.com/cases/2026-04-25T09-48-37+08-00-BloomMaternity/",
-"mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-25T09-48-37+08-00-BloomMaternity/",
+"url": "https://woorec.com/blogs/cases/2026-04-25T09-48-37&amp;#43;08-00-BloomMaternity/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-04-25T09-48-37&amp;#43;08-00-BloomMaternity/",
 "datePublished": "2026-04-25T09:48:37+08:00",
 "dateModified": "2026-04-25T09:48:37+08:00",
 "articleSection": "E-commerce Technology",
@@ -2340,12 +2340,12 @@ BloomMaternity achieved a 35% AOV increase within 90 days of deployment. The key
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;Stewart &amp;amp; James Bespoke&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="https://woorec.com/blogs/images/Stewart&amp;JamesBespoke-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/Stewart&amp;amp;JamesBespoke-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI on a device, showing 'Recommended for You' with specific products (suits, ties, pocket squares). Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 77.1% Growth&lt;span class="hx:absolute hx:-mt-20" id="the-impact-771-growth"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-771-growth" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;Stewart &amp;amp; James Bespoke&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="https://woorec.com/blogs/charts/Stewart&amp;JamesBespoke.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/Stewart&amp;amp;JamesBespoke.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AOV (Average Order Value)&lt;/strong&gt;: Increased by &lt;strong&gt;37.5%&lt;/strong&gt; (from $1200 to $1650).&lt;/li&gt;
@@ -2532,12 +2532,12 @@ We surfaced popular franchise collections (e.g., new anime releases) to address 
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;Silk &amp;amp; Grace Intimates&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="https://woorec.com/blogs/images/Silk&amp;GraceIntimates-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/Silk&amp;amp;GraceIntimates-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on a laptop screen. CONTENT: "Complete Your Set" section showing a silk bra with 3 recommended matching panties in different styles. STYLE: Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 80% Growth in Set Purchases&lt;span class="hx:absolute hx:-mt-20" id="the-impact-80-growth-in-set-purchases"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-80-growth-in-set-purchases" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;Silk &amp;amp; Grace Intimates&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="https://woorec.com/blogs/charts/Silk&amp;GraceIntimates.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/Silk&amp;amp;GraceIntimates.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bra-Panty Matching Ratio&lt;/strong&gt;: Increased by &lt;strong&gt;80%&lt;/strong&gt; (25% → 45%).&lt;/li&gt;
