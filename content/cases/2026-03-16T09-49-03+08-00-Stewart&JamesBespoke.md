@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `Stewart & James Bespoke` storefront:
 
-<img src="/images/Stewart&JamesBespoke-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/Stewart&JamesBespoke-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI on a device, showing 'Recommended for You' with specific products (suits, ties, pocket squares). Minimalist, High-Res. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `Stewart & James Bes
 
 The speed of deployment meant faster results. By toggling on these strategies, `Stewart & James Bespoke` achieved:
 
-<iframe src="/charts/Stewart&JamesBespoke.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/Stewart&JamesBespoke.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **AOV (Average Order Value)**: Increased by **37.5%** (from $1200 to $1650).

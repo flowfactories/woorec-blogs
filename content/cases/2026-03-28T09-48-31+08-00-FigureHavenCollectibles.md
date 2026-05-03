@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `Figure Haven Collectibles` storefront:
 
-<img src="/images/FigureHavenCollectibles-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/FigureHavenCollectibles-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI Mockup. SCENE: Clean WooCommerce product page on a laptop. CONTENT: 'Recommended Collectibles' section showing 3 anime figures with tags like "Pre-Order", "Limited", "Shonen". STYLE: Minimalist, High-Res. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `Figure Haven Collec
 
 The speed of deployment meant faster results. By toggling on these strategies, `Figure Haven Collectibles` achieved:
 
-<iframe src="/charts/FigureHavenCollectibles.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/FigureHavenCollectibles.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Pre-sale Conversion Rate**: Increased by **83.3%** (12% → 22%).

@@ -18,9 +18,9 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
     "headline": "68% CVR Surge with AI Engine",
     "description": "DreamCloud cut returns 47% with AI engine. Learn how WooRec's private deployment boosted CVR by 68%.",
     "author": {"@type": "Organization", "name": "WooRec"},
-    "url": "https://blog.woorec.com/cases/2026-05-01T09-48-30+08-00-DreamCloudMattresses/",
-    "@id": "https://blog.woorec.com/cases/2026-05-01T09-48-30+08-00-DreamCloudMattresses/",
-    "mainEntityOfPage": "https://blog.woorec.com/cases/2026-05-01T09-48-30+08-00-DreamCloudMattresses/",
+    "url": "{{< baseurl "cases/2026-05-01T09-48-30+08-00-DreamCloudMattresses/" >}}",
+    "@id": "{{< baseurl "cases/2026-05-01T09-48-30+08-00-DreamCloudMattresses/" >}}",
+    "mainEntityOfPage": "{{< baseurl "cases/2026-05-01T09-48-30+08-00-DreamCloudMattresses/" >}}",
     "image": "/images/DreamCloudMattresses-hero.jpg",
     "publisher": {
       "@type": "Organization",
@@ -123,7 +123,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `DreamCloud Mattresses` storefront:
 
-<img src="/images/DreamCloudMattresses-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/DreamCloudMattresses-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI Mockup, minimalist high-res. SCENE: Tablet screen showing "Recommended for You" with 3 DreamCloud mattresses (firmness levels, prices, "Virtual Test" CTA). STYLE: Clean e-commerce UI. :: -->
 *Figure 1: Hyper-personalized recommendations driven by WooRec's ESSM model, featuring dynamic firmness testing.*
 
@@ -131,7 +131,7 @@ Here is how these intelligent recommendations appear on the `DreamCloud Mattress
 
 The speed of deployment meant faster results. By toggling on these strategies, `DreamCloud Mattresses` achieved:
 
-<iframe src="/charts/DreamCloudMattresses.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/DreamCloudMattresses.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Return Rate**: Reduced by **47.1%** (25% → 13.2%).

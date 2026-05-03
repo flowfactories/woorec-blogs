@@ -58,7 +58,7 @@ Raw scores are just probability predictions. To align with business goals, we ap
 
 Here is how these intelligent recommendations appear on the `PureGlow Botanicals` storefront:
 
-<img src="/images/PureGlowBotanicals-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/PureGlowBotanicals-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on smartphone. SCENE: "Recommended for You" section showing 3 PureGlow products (serum, cleanser, moisturizer) with ingredient transparency badges (e.g., "Vegan," "Clinical Study Verified"). STYLE: Minimalist, white background, green accents. High-Res. :: -->
 *Figure 1: The result of WooRec's ESSM engine—hyper-relevant product recommendations with scientific validation.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `PureGlow Botanicals
 
 The speed of deployment meant faster results. By toggling on these strategies, `PureGlow Botanicals` achieved:
 
-<iframe src="/charts/PureGlowBotanicals.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/PureGlowBotanicals.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following ESSM configuration.*
 
 *   **Repurchase Rate**: Increased by **72.7%** (from 22% to 38%).

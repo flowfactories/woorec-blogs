@@ -18,9 +18,9 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
   "headline": "AI Product Recommendation Engine: 78% CVR Surge",
   "description": "PrintForge reduced print failures & boosted CVR 78% with a private AI recommendation engine. Learn how.",
   "author": {"@type": "Organization", "name": "WooRec"},
-  "url": "https://blog.woorec.com/cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/",
-  "@id": "https://blog.woorec.com/cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/",
-  "mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/",
+  "url": "{{< baseurl "cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/" >}}",
+  "@id": "{{< baseurl "cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/" >}}",
+  "mainEntityOfPage": "{{< baseurl "cases/2026-04-26T09-49-11+08-00-PrintForgeTechnologies/" >}}",
   "image": "/images/PrintForgeTechnologies-hero.jpg",
   "publisher": {
     "@type": "Organization",
@@ -115,7 +115,7 @@ Raw scores needed business alignment:
 
 Here’s how **WooRec's smart recommendation API** delivered personalized experiences:
 
-<img src="/images/PrintForgeTechnologies-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/PrintForgeTechnologies-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI mockup on a tablet. Clean interface showing "Recommended for You" with 3D printer filament options. STYLE: Minimalist, High-Res. :: -->
 *Figure 1: PrintForge’s storefront displaying AI-powered consumable recommendations based on user printer models.*
 
@@ -123,7 +123,7 @@ Here’s how **WooRec's smart recommendation API** delivered personalized experi
 
 Private deployment enabled rapid iteration. Key results include:
 
-<iframe src="/charts/PrintForgeTechnologies.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/PrintForgeTechnologies.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: Metrics surge following WooRec implementation.*
 
 - **Conversion Rate**: **78.1% increase** (3.2% → 5.7%)

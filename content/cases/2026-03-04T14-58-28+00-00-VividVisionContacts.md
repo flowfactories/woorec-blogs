@@ -57,7 +57,7 @@ Raw scores aren't enough. We applied final adjustments to align with business KP
 
 Here is how these intelligent recommendations appear on the `VividVision Contacts` storefront:
 
-<img src="/images/VividVisionContacts-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/VividVisionContacts-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: Clean UI mockup on a smartphone. CONTENT: 'Recommended for You' section showing 3 colored contact lens variants with prescription power indicators. STYLE: Minimalist, High-Res, E-commerce aesthetic. :: -->
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 
@@ -65,7 +65,7 @@ Here is how these intelligent recommendations appear on the `VividVision Contact
 
 The speed of deployment meant faster results. By toggling on these strategies, `VividVision Contacts` achieved:
 
-<iframe src="/charts/VividVisionContacts.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/VividVisionContacts.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: The rapid growth curve following WooRec configuration.*
 
 *   **Repurchase Rate**: Increased by **52%**.

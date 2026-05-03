@@ -29,9 +29,9 @@ tags: ["Ecommerce Personalization", "AI Recommendation Engine", "WooRec", "Deep 
       "url": "/images/GiftCraftCorporate-hero.jpg"
     }
   },
-  "url": "https://blog.woorec.com/cases/2026-04-23T09-49-45+08-00-GiftCraftCorporate/",
-  "@id": "https://blog.woorec.com/cases/2026-04-23T09-49-45+08-00-GiftCraftCorporate/",
-  "mainEntityOfPage": "https://blog.woorec.com/cases/2026-04-23T09-49-45+08-00-GiftCraftCorporate/",
+  "url": "{{< baseurl "cases/2026-04-23T09-49-45+08-00-GiftCraftCorporate/" >}}",
+  "@id": "{{< baseurl "cases/2026-04-23T09-49-45+08-00-GiftCraftCorporate/" >}}",
+  "mainEntityOfPage": "{{< baseurl "cases/2026-04-23T09-49-45+08-00-GiftCraftCorporate/" >}}",
   "image": "/images/GiftCraftCorporate-hero.jpg",
   "datePublished": "2026-04-23T09:49:45+08:00",
   "dateModified": "2026-04-23T09:49:45+08:00",
@@ -123,7 +123,7 @@ Raw AI scores needed business alignment:
 
 Here's how **Ecommerce Personalization Software** transformed their **WooCommerce** storefront:
 
-<img src="/images/GiftCraftCorporate-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/GiftCraftCorporate-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI Mockup: Clean WooCommerce product page showing "Recommended for Your Team" section with 4 personalized corporate gift items. Minimalist design, high-res. :: -->
 *Figure 1: WooRec's dynamic recommendations displayed on GiftCraft's bulk ordering interface*
 
@@ -131,7 +131,7 @@ Here's how **Ecommerce Personalization Software** transformed their **WooCommerc
 
 Deployment took **48 hours**. Results were immediate:
 
-<iframe src="/charts/GiftCraftCorporate.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/GiftCraftCorporate.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: GiftCraft's B2B Conversion Rate jump from 12% to 22% post-WooRec implementation*
 
 *   **B2B Conversion Rate**: **+83.3%** (12% → 22%)

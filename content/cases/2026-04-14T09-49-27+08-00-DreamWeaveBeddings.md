@@ -58,7 +58,7 @@ Raw ESSM scores required business alignment:
 
 Here is how these intelligent recommendations appear on the `DreamWeave Beddings` storefront:
 
-<img src="/images/DreamWeaveBeddings-dash.jpg" width="80%" alt="dashboard">
+<img src="{{< baseurl "images/DreamWeaveBeddings-dash.jpg" >}}" width="80%" alt="dashboard">
 <!-- ::IMAGE_PROMPT:: UI mockup on tablet device. SCENE: Clean e-commerce product page. CONTENT: "Recommended for You" section showing: 1) 400-thread-count sateen sheets, 2) Silk pillowcases, 3) Down-alternative duvet insert. STYLE: Minimalist, high-res. --ar 2:1 :: -->
 *Figure 1: ESSM-powered recommendations displaying complementary bedding sets with real-time inventory status.*
 
@@ -66,7 +66,7 @@ Here is how these intelligent recommendations appear on the `DreamWeave Beddings
 
 The private deployment enabled rapid iteration. By activating these strategies, `DreamWeave Beddings` achieved:
 
-<iframe src="/charts/DreamWeaveBeddings.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="{{< baseurl "charts/DreamWeaveBeddings.html" >}}" width="100%" height="600" frameborder="0"></iframe>
 > *Interactive Chart: 6-month performance curve post-ESSM implementation*
 
 *   **Cross-selling Rate**: Increased by **94.4%** (18% → 35%)
