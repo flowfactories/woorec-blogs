@@ -52,8 +52,11 @@
         <!-- 图片区域：强制 220px 高度 -->
         <div style="height: 220px; position: relative; background-color: #f3f4f6; overflow: hidden;">
           {{ if .Params.image }}
-            {{ $imgPath := strings.TrimPrefix "/" .Params.image }}
-            <img src="{{ $imgPath }}" 
+            {{- $imgSrc := .Params.image -}}
+            {{- if not (hasPrefix .Params.image "http") -}}
+              {{- $imgSrc = printf "%s%s" site.BaseURL (strings.TrimPrefix "/" .Params.image) -}}
+            {{- end -}}
+            <img src="{{ $imgSrc }}" 
                  alt="{{ .Title }}" 
                  style="
                    width: 100%; 
