@@ -14,7 +14,9 @@
       <!-- 卡片本体 -->
       <!-- calc(33.333% - 24px) 让它在电脑上一行显示3个 -->
       <!-- min-width: 280px 保证在手机上自动变成一行一个 -->
-      <a href="{{ .Permalink  }}" 
+      {{- $path := .Permalink -}}
+      {{- $herfLink := printf "%s%s" site.BaseURL (strings.TrimPrefix "/" $path) -}}
+      <a href="{{ $herfLink }}"
          style="
            display: block;
            flex: 1 1 300px;
@@ -36,7 +38,8 @@
         <!-- 图片区域：强制 200px 高度，裁剪多余部分 -->
         <div style="width: 100%; height: 200px; overflow: hidden; position: relative; background-color: #f3f4f6;">
           {{ if .Params.image }}
-            {{ $imgPath := strings.TrimPrefix "/" .Params.image }}
+            {{- $path := .Params.image -}}
+            {{- $imgPath := printf "%s%s" site.BaseURL (strings.TrimPrefix "/" $path) -}}
             <img src="{{ $imgPath }}" 
                  alt="{{ .Title }}" 
                  style="
