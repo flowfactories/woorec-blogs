@@ -2,13 +2,8 @@ name: Build Hugo and Push to Blog Branch
 
 on:
   push:
-    branches:
-      - main  # Hugo 源码所在分支
-    paths:
-      - 'content/**'
-      - 'layouts/**'
-      - 'static/**'
-      - 'hugo.yaml'
+    tags:
+      - '*'  # 匹配所有Tag，比如v1.0.0、prod-2026等
   workflow_dispatch:  # 允许手动触发
 
 permissions:
@@ -27,7 +22,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
-          go-version: '>=1.25'
+          go-version: '>=1.26'
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:

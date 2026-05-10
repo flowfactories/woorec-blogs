@@ -2,10 +2,9 @@
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
+    tags:
+      - '*'  # 匹配所有Tag，比如v1.0.0、prod-2026等
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
