@@ -15,6 +15,6 @@
   
   // 构建配置
   "build": {
-    "command": "hugo --gc --minify"
+    "command": "hugo --gc --minify --baseURL https://blog.woorec.com/"
   }
 }
