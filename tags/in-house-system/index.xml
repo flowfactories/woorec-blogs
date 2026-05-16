@@ -10,9 +10,9 @@
 "@type": "Organization",
 "name": "WooRec"
 },
-"url": "{ .Site.BaseURL }cases/2026-05-05T09-54-43+08-00-CulinaryCraftPro/",
-"@id": "{ .Site.BaseURL }cases/2026-05-05T09-54-43+08-00-CulinaryCraftPro/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-05T09-54-43+08-00-CulinaryCraftPro/",
+"url": "https://woorec.com/blogs/cases/2026-05-05T09-54-43&amp;#43;08-00-CulinaryCraftPro/",
+"@id": "https://woorec.com/blogs/cases/2026-05-05T09-54-43&amp;#43;08-00-CulinaryCraftPro/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-05T09-54-43&amp;#43;08-00-CulinaryCraftPro/",
 "image": "/images/CulinaryCraftPro-hero.jpg",
 "publisher": {
 "@type": "Organization",
@@ -107,12 +107,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;CulinaryCraft Pro&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/CulinaryCraftPro-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/CulinaryCraftPro-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup showing "Recommended for You" with kitchenware products, minimalist design, high-resolution --ar 2:1 :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 52% Growth in Conversion Rate&lt;span class="hx:absolute hx:-mt-20" id="the-impact-52-growth-in-conversion-rate"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-52-growth-in-conversion-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;CulinaryCraft Pro&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/CulinaryCraftPro.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/CulinaryCraftPro.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;52%&lt;/strong&gt; (from 2.5% to 3.8%).&lt;/li&gt;

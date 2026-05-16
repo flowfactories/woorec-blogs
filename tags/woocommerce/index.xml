@@ -10,9 +10,9 @@
 "@type": "Organization",
 "name": "WooRec"
 },
-"url": "{ .Site.BaseURL }cases/2026-05-08T09-48-40+08-00-VenturePackGear/",
-"@id": "{ .Site.BaseURL }cases/2026-05-08T09-48-40+08-00-VenturePackGear/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-08T09-48-40+08-00-VenturePackGear/",
+"url": "https://woorec.com/blogs/cases/2026-05-08T09-48-40&amp;#43;08-00-VenturePackGear/",
+"@id": "https://woorec.com/blogs/cases/2026-05-08T09-48-40&amp;#43;08-00-VenturePackGear/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-08T09-48-40&amp;#43;08-00-VenturePackGear/",
 "image": "/images/VenturePackGear-hero.jpg",
 "publisher": {
 "@type": "Organization",
@@ -91,12 +91,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;VenturePack Gear&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/VenturePackGear-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/VenturePackGear-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI mockup, clean design on laptop screen. "Recommended for You" section showing VenturePack backpacks with 3D visualization toggle. Minimalist style, high-res. :: --&gt;
 *Figure 1: WooRec's **Smart Recommendation API** delivering hyper-personalized products with integrated 3D visualization*
 &lt;h2&gt;The Impact: 94.4% Growth in CVR&lt;span class="hx:absolute hx:-mt-20" id="the-impact-944-growth-in-cvr"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-944-growth-in-cvr" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The SaaS deployment velocity enabled immediate results. By activating these strategies, &lt;code&gt;VenturePack Gear&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/VenturePackGear.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/VenturePackGear.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: Post-deployment metrics showing rapid CVR and AOV improvement*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;94.4%&lt;/strong&gt; (1.8% → 3.5%)&lt;/li&gt;
@@ -139,8 +139,8 @@ AI engines like WooRec&amp;rsquo;s &lt;strong&gt;Smart Recommendation API&lt;/st
 }
 },
 "image": "/images/AquaTackleSupply-hero.jpg",
-"url": "{ .Site.BaseURL }cases/2026-05-07T09-51-04+08-00-AquaTackleSupply/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-07T09-51-04+08-00-AquaTackleSupply/",
+"url": "https://woorec.com/blogs/cases/2026-05-07T09-51-04&amp;#43;08-00-AquaTackleSupply/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-07T09-51-04&amp;#43;08-00-AquaTackleSupply/",
 "datePublished": "2026-05-07T09:51:04+08:00",
 "dateModified": "2026-05-07T09:51:04+08:00"
 },
@@ -227,12 +227,12 @@ AI engines like WooRec&amp;rsquo;s &lt;strong&gt;Smart Recommendation API&lt;/st
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;AquaTackle Supply&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/AquaTackleSupply-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/AquaTackleSupply-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on a tablet. CONTENT: "Recommended for You" section showing: 1) Spinning reel, 2) Matching rod, 3) Tackle box. Minimalist design, high-res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 153.3% Growth in Search Conversion&lt;span class="hx:absolute hx:-mt-20" id="the-impact-1533-growth-in-search-conversion"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-1533-growth-in-search-conversion" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;AquaTackle Supply&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/AquaTackleSupply.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/AquaTackleSupply.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Search Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;153.3%&lt;/strong&gt; (from 1.5% to 3.8%).&lt;/li&gt;
@@ -275,9 +275,9 @@ AquaTackle saw 37.8% CAC reduction and 77.8% CVR improvement within 90 days. Saa
 "url": "https://www.woorec.com/logo.png"
 }
 },
-"url": "{ .Site.BaseURL }cases/2026-05-06T09-49-12+08-00-ShieldUpCases/",
-"@id": "{ .Site.BaseURL }cases/2026-05-06T09-49-12+08-00-ShieldUpCases/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-06T09-49-12+08-00-ShieldUpCases/",
+"url": "https://woorec.com/blogs/cases/2026-05-06T09-49-12&amp;#43;08-00-ShieldUpCases/",
+"@id": "https://woorec.com/blogs/cases/2026-05-06T09-49-12&amp;#43;08-00-ShieldUpCases/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-06T09-49-12&amp;#43;08-00-ShieldUpCases/",
 "image": "/images/ShieldUpCases-hero.jpg",
 "datePublished": "2026-05-06T09:49:12+08:00",
 "dateModified": "2026-05-06T09:49:12+08:00",
@@ -362,12 +362,12 @@ AquaTackle saw 37.8% CAC reduction and 77.8% CVR improvement within 90 days. Saa
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s how these intelligent recommendations appear on ShieldUp Cases&amp;rsquo; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/ShieldUpCases-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/ShieldUpCases-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI mockup. Clean mobile interface showing "Recommended for You" with 4 premium phone cases (different models/materials). Minimalist design, high-res. :: --&gt;
 *Figure 1: Hyper-relevant recommendations powered by WooRec's AI product recommendation engine*
 &lt;h2&gt;The Impact: 133.3% CVR Surge&lt;span class="hx:absolute hx:-mt-20" id="the-impact-1333-cvr-surge"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-1333-cvr-surge" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Rapid SaaS deployment meant immediate results. By activating these strategies, ShieldUp Cases achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/ShieldUpCases.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/ShieldUpCases.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: Sharp CVR increase and return rate decline post-WooRec implementation*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;133.3%&lt;/strong&gt; (from 1.2% to 2.8%)&lt;/li&gt;
@@ -413,8 +413,8 @@ ShieldUp Cases achieved 215% ROI in 4 months through reduced CAC (52% decrease),
 "url": "/images/VineSelect-hero.jpg"
 }
 },
-"url": "{ .Site.BaseURL }cases/2026-05-04T09-49-07+08-00-VineSelect/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-04T09-49-07+08-00-VineSelect/",
+"url": "https://woorec.com/blogs/cases/2026-05-04T09-49-07&amp;#43;08-00-VineSelect/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-04T09-49-07&amp;#43;08-00-VineSelect/",
 "image": "/images/VineSelect-hero.jpg",
 "datePublished": "2026-05-04T09:49:07+08:00",
 "dateModified": "2026-05-04T09:49:07+08:00"
@@ -479,12 +479,12 @@ ShieldUp Cases achieved 215% ROI in 4 months through reduced CAC (52% decrease),
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;VineSelect&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/VineSelect-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/VineSelect-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: UI mockup on a tablet. SCENE: Clean WooCommerce product page. CONTENT: "Recommended for You" section showing 3 wine bottles with names/regions. STYLE: Minimalist, High-Res. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant wine recommendations displayed to the user.*
 &lt;h2&gt;The Impact: 133% Growth in Conversion Rate&lt;span class="hx:absolute hx:-mt-20" id="the-impact-133-growth-in-conversion-rate"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-133-growth-in-conversion-rate" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;VineSelect&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/VineSelect.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/VineSelect.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Quiz Conversion Rate&lt;/strong&gt;: Increased by &lt;strong&gt;133%&lt;/strong&gt;.&lt;/li&gt;

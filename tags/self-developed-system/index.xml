@@ -19,9 +19,9 @@
 }
 },
 "image": "/images/SockHarmony-hero.jpg",
-"url": "{ .Site.BaseURL }cases/2026-05-09T09-49-40+08-00-SockHarmony/",
-"@id": "{ .Site.BaseURL }cases/2026-05-09T09-49-40+08-00-SockHarmony/",
-"mainEntityOfPage": "{ .Site.BaseURL }cases/2026-05-09T09-49-40+08-00-SockHarmony/",
+"url": "https://woorec.com/blogs/cases/2026-05-09T09-49-40&amp;#43;08-00-SockHarmony/",
+"@id": "https://woorec.com/blogs/cases/2026-05-09T09-49-40&amp;#43;08-00-SockHarmony/",
+"mainEntityOfPage": "https://woorec.com/blogs/cases/2026-05-09T09-49-40&amp;#43;08-00-SockHarmony/",
 "datePublished": "2026-05-09T09:49:40+08:00",
 "dateModified": "2026-05-09T09:49:40+08:00"
 },
@@ -86,12 +86,12 @@
 &lt;/ul&gt;
 &lt;h2&gt;The Seamless Frontend Experience&lt;span class="hx:absolute hx:-mt-20" id="the-seamless-frontend-experience"&gt;&lt;/span&gt;
 &lt;a href="#the-seamless-frontend-experience" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is how these intelligent recommendations appear on the &lt;code&gt;SockHarmony&lt;/code&gt; storefront:&lt;/p&gt;
-&lt;img src="{ .Site.BaseURL }images/SockHarmony-dash.jpg" width="80%" alt="dashboard"&gt;
+&lt;img src="https://woorec.com/blogs/images/SockHarmony-dash.jpg" width="80%" alt="dashboard"&gt;
 &lt;!-- ::IMAGE_PROMPT:: Clean UI mockup on a tablet device. CONTENT: 'Recommended for You' section showing 3 curated sock bundles with names like "Eco Warrior Pack" and "Urban Comfort Trio". STYLE: Minimalist, high-resolution. :: --&gt;
 *Figure 1: The result of WooRec's engine—hyper-relevant product bundles displayed to the user.*
 &lt;h2&gt;The Impact: 70% Bundle Purchase Rate Uplift&lt;span class="hx:absolute hx:-mt-20" id="the-impact-70-bundle-purchase-rate-uplift"&gt;&lt;/span&gt;
 &lt;a href="#the-impact-70-bundle-purchase-rate-uplift" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The speed of deployment meant faster results. By toggling on these strategies, &lt;code&gt;SockHarmony&lt;/code&gt; achieved:&lt;/p&gt;
-&lt;iframe src="{ .Site.BaseURL }charts/SockHarmony.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://woorec.com/blogs/charts/SockHarmony.html" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
 &gt; *Interactive Chart: The rapid growth curve following WooRec configuration.*
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bundle Purchase Rate&lt;/strong&gt;: Increased by &lt;strong&gt;70%&lt;/strong&gt; (25% → 42.5%).&lt;/li&gt;
